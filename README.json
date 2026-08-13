@@ -1,0 +1,1882 @@
+{
+  "items": [
+    {
+      "description": "These scripts and tips can be used to migrate to Trilium from other note taking applications:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Evernote",
+          "description": "(Trilium Wiki Guide) The most recent version of the Evernote application no longer includes the option to export files as an enex file. Instead, it now offers a different encrypted dump file format, which no one else can read. If you want to obtain an enex file, you might need to utilize the following tool: https://github.com/vzhd1701/evernote-backup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:35:10Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTML",
+          "description": "Supported Natively",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:35:10Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Markdown",
+          "description": "Supported Natively",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:35:10Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OneNote",
+          "description": "(Trilium Wiki Guide)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:35:10Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text",
+          "description": "Supported Natively",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:35:10Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Joplin",
+          "description": "Can be imported with trilium-py.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-26T10:21:30Z",
+            "owner": "Nriver",
+            "repo": "trilium-py",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Logseq",
+          "description": "Can be imported with trilium-py.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-26T10:21:30Z",
+            "owner": "Nriver",
+            "repo": "trilium-py",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Obsidian",
+          "description": "Need to convert a Obsidian vault to regular Markdown files first. Then import with trilium-py to handle obisdian's unique linking format. See more in the link.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-26T10:21:30Z",
+            "owner": "Nriver",
+            "repo": "trilium-py",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Turtl",
+          "description": "Convert Turtl notes to markdown directory",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-26T10:21:30Z",
+            "owner": "Nriver",
+            "repo": "trilium-py",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Youdao Note/有道云笔记",
+          "description": "Requires to download notes and convert to markdown. More details are in the link.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-26T10:21:30Z",
+            "owner": "Nriver",
+            "repo": "trilium-py",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VNote",
+          "description": "Can be imported with trilium-py. The special image format will be well handled.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-26T10:21:30Z",
+            "owner": "Nriver",
+            "repo": "trilium-py",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotero",
+          "description": "A Zotero plugin to export notes to Trillium notes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-16T06:35:13Z",
+            "owner": "paulusm",
+            "repo": "zotero-trilium",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CheryTree",
+          "description": "Uses cherrytreetomarkdown and trilium-py.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-28T18:53:36Z",
+            "owner": "ShellUnease",
+            "repo": "cherrytree2trilium",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "📥 Migrating to Trilium"
+    },
+    {
+      "description": "App Themes\nApp Themes provide theming to the Trilium application. Typically, these notes are labeled with with a value which indicates the name of the theme displayed in Trilium's options panel.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Blue Theme",
+          "description": "A brilliant and beautiful theme. Thanks SiriusXT!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-07-21T10:49:20Z",
+            "owner": "SiriusXT",
+            "repo": "trilium-theme-blue",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Allure Theme",
+          "description": "A more beautiful and simple theme for trilium.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-11-20T07:34:08Z",
+            "owner": "JadeVane",
+            "repo": "Allure",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Melon Theme",
+          "description": "A delightful theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-04-20T21:41:54Z",
+            "owner": "raphwriter",
+            "repo": "trilium-theme-melon",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Catppuccin",
+          "description": "A theme for Trilium Notes, made with Catppuccin palette.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-03-27T08:19:55Z",
+            "owner": "catppuccin",
+            "repo": "trilium-notes",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lightpad",
+          "description": "A light theme with numerous user-friendly adjustments, greatly enhancing the mobile experience.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-03-30T18:22:58Z",
+            "owner": "ohmstance",
+            "repo": "trilium-lightpad-theme",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linen Theme",
+          "description": "A minimal, airy light theme for Trilium with an optional distraction-free mode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-02-23T07:46:41Z",
+            "owner": "mondayrobot",
+            "repo": "trilium-linen-theme",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "breeze-trilium",
+          "description": "KDE Breeze theme for Trilium Notes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Less",
+            "last_commit": "2024-04-20T06:53:28Z",
+            "owner": "eliandoran",
+            "repo": "breeze-trilium",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Obsidian Theme",
+          "description": "Dark theme with minor purple highlights for Trilium Notes",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Trilium Greensidian Theme",
+              "description": "Green color version of Obsidian Theme",
+              "children": []
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-03-14T05:13:46Z",
+            "owner": "greengeek",
+            "repo": "trilium-obsidian-theme",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VSCode-Dark Theme",
+          "description": "It's VSCode!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-03-14T05:11:14Z",
+            "owner": "greengeek",
+            "repo": "trilium-vscode-dark-theme",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stellar Dark Theme",
+          "description": "A different taste of dark theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-01-19T18:24:19Z",
+            "owner": "Lolabird",
+            "repo": "stellar-dark-theme-trilium",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chameleon Theme",
+          "description": "A set of light and dark colour themes for Trilium.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-11-19T06:51:11Z",
+            "owner": "DavidFuchs",
+            "repo": "trilium-chameleon-theme",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bing Daily Theme",
+          "description": "Automatically receive the Bing daily wallpaper every day for Trilium.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-07-05T05:47:48Z",
+            "owner": "Nriver",
+            "repo": "bing-daily-theme",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NieR-Automata Theme",
+          "description": "A fan-made NieR-Automata game UI like theme. This theme is made by me :)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-01-21T01:23:17Z",
+            "owner": "Nriver",
+            "repo": "NieR-Automata-Trilium-Theme",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solarized theme",
+          "description": "Brings the classic solarized themes to Trilium! It comes in both light and dark.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Solarized Dark & Light Theme",
+              "description": "A modified version of the Solarized theme for a better experience with Trilium Next.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2026-08-12T06:23:47Z",
+                "owner": "calico-cat-3333",
+                "repo": "trilium-next-solarized-theme",
+                "stars": 0
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-11-01T16:16:30Z",
+            "owner": "WKSu",
+            "repo": "trilium-solarized-theme",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EverForest Ant Dark (EFAD) Trilium Theme",
+          "description": "Trilium Notes theme to go with Everforest and Ant Dark linux desktop themes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-01-19T18:24:54Z",
+            "owner": "Lolabird",
+            "repo": "everforest-ant-dark-trilium-theme",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mist-Moon",
+          "description": "A Light Theme inspired by mist moon night view.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2023-08-31T04:34:37Z",
+            "owner": "Ivy-End",
+            "repo": "Mist-Moon",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ra1n's Dark Theme",
+          "description": "Dark theme that looks good and is easy on the eyes!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-08-11T12:00:14Z",
+            "owner": "perfectra1n",
+            "repo": "custom-trilium-themes",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eva theme",
+          "description": "A theme that brings the style of the Eva theme plugin to VSCode, including eva-light, eva-dark, and eva-night.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-10-21T14:40:48Z",
+            "owner": "cocolight",
+            "repo": "trilium-theme-eva",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lemon Tree",
+          "description": "A delightful theme based on trilium-next-light, inspired by Melon Theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-07-18T09:33:15Z",
+            "owner": "yu-jingrui",
+            "repo": "trilium-theme-lemon-tree",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VOID Theme",
+          "description": "A pure black, borderless minimal dark theme for TriliumNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-04-19T20:28:20Z",
+            "owner": "DikshantJangra",
+            "repo": "void-trilium-theme",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "🏡 Themes"
+    },
+    {
+      "description": "The Icon Pack feature was introduced in Trilium 0.102.0. Customize your notes with a variety of icon styles.",
+      "items": [],
+      "title": "🎨 Icon Packs"
+    },
+    {
+      "description": "Check out the official Trilium icon pack here.",
+      "items": [],
+      "title": "Official Icon Pack"
+    },
+    {
+      "description": "Custom CSS is used to alter the appearance of Trilium. These code snippets are typically labeled with . See (Trilium Wiki for instructions on how to enable custom CSS)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "display edited notes as list",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:35:10Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "horizontal scrollbar",
+          "description": "A css snippet to make the left panel and toc display a horizontal scrollbar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:35:10Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remove numbers from table of contents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:35:10Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vertical lines for tree",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:35:10Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "images with transparent background",
+          "description": "Add transparent background for transparent images.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-06-24T20:24:23Z",
+            "owner": "TriliumNext",
+            "repo": "Notes",
+            "stars": 2931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "active calendar days visibility improvement",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T14:13:04Z",
+            "owner": "Nriver",
+            "repo": "awesome-trilium",
+            "stars": 922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zen mode",
+          "description": "Add zen mode to your Trilium.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T14:13:04Z",
+            "owner": "Nriver",
+            "repo": "awesome-trilium",
+            "stars": 922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-enhancement",
+          "description": "Experience Enhancement Kit for Trilium Notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-11-08T05:54:09Z",
+            "owner": "Nriver",
+            "repo": "trilium-enhancement",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trilium-TextNoteEnhancement",
+          "description": "Some widgets enhance trilium text input efficiency.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-22T07:33:51Z",
+            "owner": "SiriusXT",
+            "repo": "Trilium-TextNoteEnhancement",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-enhancement-Lazy-Pack",
+          "description": "Trilium Notes v0.63.7 curated power-user pack: VOCALoid idol color theme, read-only zoom/drag/preview, iframe Kimi-Chat + 18 more tweaks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-16T13:34:42Z",
+            "owner": "march-7th-mini",
+            "repo": "trilium-enhancement-Lazy-Pack",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "✂️ CSS Snippets"
+    },
+    {
+      "description": "Widgets can make big difference in the Trilium user experience!\nA widget typically alters Trilium's user interface and offers additional panel functionalities. The primary JavaScript file of a widget is usually labeled with .",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Convert formulas in Note",
+          "description": "Convert math formulas wrapped in single dollar signs and double dollar signs into HTML format within Trilium Notes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:35:10Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scratchpad",
+          "description": "Add scratchpad widget to notes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:35:10Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Syntax Highlight",
+          "description": "The syntax highlight feature which you would like.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-11T07:37:12Z",
+            "owner": "antoniotejada",
+            "repo": "Trilium-SyntaxHighlightWidget",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Breadcrumbs",
+          "description": "Shows note breadcrumbs at the bottom of the page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-26T22:46:36Z",
+            "owner": "zerebos",
+            "repo": "Trilium-Breadcrumbs",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-simple-mind-map",
+          "description": "Create simple-mind-map mindmap in Trilium.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-19T06:21:41Z",
+            "owner": "waterovo",
+            "repo": "trilium-simple-mind-map",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image zoom",
+          "description": "Zoom, drag, and preview images in Trilium",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MusicPlayer",
+              "description": "A simple music player that supports play/pause, volume control, playback order adjustment, and show/hide toggling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-11-27T09:46:39Z",
+                "owner": "Userwei0418",
+                "repo": "trilium-MusicPlayer",
+                "stars": 2
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-26T06:15:32Z",
+            "owner": "Nriver",
+            "repo": "image-zoom-widget",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copy Code Block",
+          "description": "Double click to copy code block",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-28T01:48:09Z",
+            "owner": "Nriver",
+            "repo": "copy-code-block-widget",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magic Toolbox",
+          "description": "Turn your Trilium into a lightweight OS, make scripts working like .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-27T12:16:59Z",
+            "owner": "Userwei0418",
+            "repo": "trilium-Magic-Toolbox",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-show-position-in-toc",
+          "description": "Mark font red of the position being browsed in the Table of contents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-26T01:52:50Z",
+            "owner": "SiriusXT",
+            "repo": "trilium-show-position-in-toc",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tomato-timer",
+          "description": "Pomodoro timer for Trilium Notes",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tomato-timer",
+              "description": "Enhanced Pomodoro timer widget for Trilium: adds show/hide controls and improves the UI based on the original version.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-11-27T08:27:41Z",
+                "owner": "Userwei0418",
+                "repo": "tomato-timer-widget",
+                "stars": 1
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-27T03:53:57Z",
+            "owner": "Nriver",
+            "repo": "tomato-timer-widget",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-back-to-history",
+          "description": "Jump to the last browsing position",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-12T08:38:26Z",
+            "owner": "SiriusXT",
+            "repo": "trilium-back-to-history",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-left-panel-auto-zoom",
+          "description": "Automatically widen note tree by moving your mouse. A convenient widget to navigate through notes with long titles and deep level notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-10T02:12:47Z",
+            "owner": "SiriusXT",
+            "repo": "trilium-left-panel-auto-zoom",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Theme Switch",
+          "description": "Trilium widget for changing themes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-02-22T00:21:17Z",
+            "owner": "madodig",
+            "repo": "trilium-widget-theme-switch",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "command-palette",
+          "description": "Simple command-palette for Trilium",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-06T09:15:51Z",
+            "owner": "justyns",
+            "repo": "trilium-scripts",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-auto-hide-info-bar",
+          "description": "Automatically hide the title bar and information bar, and you can set to hide one of them individually.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-25T09:22:24Z",
+            "owner": "SiriusXT",
+            "repo": "trilium-auto-hide-info-bar",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-jsmind",
+          "description": "Create jsmind mindmap in Trilium.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2024-07-09T07:37:51Z",
+            "owner": "waterovo",
+            "repo": "trilium-jsmind",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knowledge Card Gallery",
+          "description": "An immersive knowledge internalization tool designed for Trilium Notes. It transforms dry note text into visual \"knowledge cards\" and \"flashcards,\" and integrates AI-powered extraction features to help you quickly organize key insights and perform spaced repetition reviews.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-28T15:05:23Z",
+            "owner": "Userwei0418",
+            "repo": "trilium_Knowledge-Gallery-Viewer",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swap enter",
+          "description": "Swap \"enter\" and \"shift + enter\" for Trilium Notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-19T02:59:40Z",
+            "owner": "Nriver",
+            "repo": "swap-enter-widget",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-remember-right-pane",
+          "description": "Lets you click a button to open the right pane again after closing it. Remembers the right pane state by label.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-01-26T03:26:43Z",
+            "owner": "SiriusXT",
+            "repo": "trilium-remember-right-pane",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Voice Note Widget",
+          "description": "A fully-featured speech-to-text and intelligent organization widget for Trilium Notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-26T20:02:21Z",
+            "owner": "Userwei0418",
+            "repo": "trilium_AI_Voice_Note-",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Countdown Days",
+          "description": "Add a relative days message under journal note title.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-15T08:19:43Z",
+            "owner": "Nriver",
+            "repo": "countdown-days-widget",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trilium-TocWidget",
+          "description": "The table of content widget is now a built-in feature in Trilium Notes. Great thank to developers antoniotejada and Lolabird !",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-08-20T22:50:19Z",
+            "owner": "Lolabird",
+            "repo": "Trilium-TocWidget",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-fast-player",
+          "description": "A streamlined way to embed and play external videos (Local MP4, Bilibili, YouTube) in Trilium",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-19T06:32:15Z",
+            "owner": "Userwei0418",
+            "repo": "trilium-fast-player",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Title color picker",
+          "description": "A beautiful and intuitive title color picker widget for Trilium Notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-18T08:53:58Z",
+            "owner": "Nriver",
+            "repo": "title-color-picker",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-dnd-dice",
+          "description": "D20 system/General Dice roller widget",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-28T15:35:37Z",
+            "owner": "AzzyB",
+            "repo": "trilium-dnd-dice",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trilium Presenter",
+          "description": "Turn notes into fullscreen presentations with themes, templates, and speaker mode",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-28T15:11:06Z",
+            "owner": "Stefan-Schmidbauer",
+            "repo": "trilium-presenter-plugin",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-antidote",
+          "description": "Antidote integration to correct text notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-08T22:08:49Z",
+            "owner": "yiranlus",
+            "repo": "trilium-antidote",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "⚙️ Widgets"
+    },
+    {
+      "description": "Magic! These code notes are typically tagged as JS frontend in Trilium. They're often marked with for automatic execution when Trilium starts. Remember, scripts are executable codes. Handle with caution!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Calendar Sunday First",
+          "description": "Use Sunday as first weekday in calendar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:35:10Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dark-mode-img-color-conversion",
+          "description": "Adjusting the images and background colors on the web page to suit a dark theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:35:10Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Font formatting shortcuts",
+          "description": "Customizable shortcut keys for text formatting in CKEditor. Makes significant enhancement in editing efficiency.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:35:10Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open note in split view",
+          "description": "Shift+click to open a note in split view. Ctrl+shift+click for tree nodes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:35:10Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Startup message",
+          "description": "A quite simple script. Display a random message. Set to run it when Trilium startup. Just like a MOTD(Message of the day) message :)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-08T03:29:58Z",
+            "owner": "Nriver",
+            "repo": "trilium-translation",
+            "stars": 2862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trilium-chat",
+          "description": "Allows interaction with ChatGPT and Ollama conveniently right inside of Trilium.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-30T16:52:53Z",
+            "owner": "soulsands",
+            "repo": "trilium-chat",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beatlink's Trilium Scripts",
+          "description": "A collection of scripts and widgets to do everything from allowing you to set priority colors on Notes, to scripting recurring To-dos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T00:47:01Z",
+            "owner": "BeatLink",
+            "repo": "trilium-scripts",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mobile View",
+          "description": "These set of scripts allow you to use the full capabilities of the Trilium server user interface while on a mobile device.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "always desktop mode",
+              "description": "Always use desktop UI on mobile device.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-07-08T03:29:58Z",
+                "owner": "Nriver",
+                "repo": "trilium-translation",
+                "stars": 2862
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T00:47:01Z",
+            "owner": "BeatLink",
+            "repo": "trilium-scripts",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trillium Agenda",
+          "description": "Sorts todos into 6 categories: Overdue, Today, This Week, This Month, This Year, Future",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T00:47:01Z",
+            "owner": "BeatLink",
+            "repo": "trilium-scripts",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Better Include",
+          "description": "Make subnotes and include them faster",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-04T20:14:34Z",
+            "owner": "salmund",
+            "repo": "trilium_better_include",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trilium-DailyMood",
+          "description": "Browse daily moods in the calendar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-12T10:34:42Z",
+            "owner": "dvai",
+            "repo": "Trilium-DailyMood",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weekly planner",
+          "description": "A weekly planner for Trilium that turns inline task lines into an actionable board while keeping each task linked to its original note context.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-14T15:50:26Z",
+            "owner": "ecodiv",
+            "repo": "Trilium_scripts",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-ai-agent",
+          "description": "AI chat widget for Trilium share pages (public docs). Drop-in script that adds a floating \"Ask the docs\" bubble — the AI uses tool calls to navigate your whole shared note tree. Works with any OpenAI-compatible API (Gemini, OpenAI, OpenRouter, …).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-04T18:58:24Z",
+            "owner": "mrbeandev",
+            "repo": "trilium-ai-agent",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-next-image-lightbox",
+          "description": "A powerful image lightbox viewer for Trilium Next. Double-click an image in a note to open a full-screen viewer with zoom, drag, navigation within the current note, copy/export, image info, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T01:54:07Z",
+            "owner": "npgwgmggta",
+            "repo": "trilium-next-image-lightbox",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gistMirror",
+          "description": "Mirror GitHub Gists to Trilium Note tree",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-12-12T16:53:03Z",
+            "owner": "jwhonce",
+            "repo": "trilium-addons",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calendar & Timetable",
+          "description": "Implements a calendar, timetable, and even a musical fretboard.",
+          "children": []
+        }
+      ],
+      "title": "🪄 Scripts"
+    },
+    {
+      "description": "An enhanced HTML display notes often incorporates complex features and commonly uses the relation to present intricate standalone HTML pages, surpassing the capabilities of small panels.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "drawio",
+          "description": "Integrated drawio plug-in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-25T04:09:05Z",
+            "owner": "SiriusXT",
+            "repo": "trilium-drawio",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-collection-views",
+          "description": "A great extension for displaying notes in a different way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-06T23:20:04Z",
+            "owner": "mabeyj",
+            "repo": "trilium-collection-views",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kanban View",
+          "description": "A Kanban integration for Trilium Notes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-18T07:58:04Z",
+            "owner": "CyrilLeblanc",
+            "repo": "trilium-kanban",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trilium-SingleFile",
+          "description": "An addon for Trilium to easily import SingleFile archives.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-07T17:11:54Z",
+            "owner": "zerebos",
+            "repo": "Trilium-SingleFile",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MarkdownPreview",
+          "description": "Live preview markdown files with support for anchors, images, and sync scroll",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-04T21:55:39Z",
+            "owner": "zerebos",
+            "repo": "Trilium-MarkdownPreview",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trilium-Heatmap",
+          "description": "Display a note modification heatmap in a Trilium note",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-03-18T11:31:39Z",
+            "owner": "dvai",
+            "repo": "Trilium-Heatmap",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LaTeXPreview",
+          "description": "A widget for Trilium Notes to preview LaTeX notes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-21T20:37:21Z",
+            "owner": "zerebos",
+            "repo": "Trilium-LaTeXPreview",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trilium JSON Editor",
+          "description": "JSON Note editor for Trilium",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-07T20:34:23Z",
+            "owner": "sottey",
+            "repo": "tje",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gantt TODO Panel",
+          "description": "A Gantt chart-based task management panel with three tabs: Gantt Chart (Frappe Gantt), Task List (sortable/paginated), and Settings. Supports / date markers, ~ priority, recurring tasks, and follow-up markers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-27T14:06:39Z",
+            "owner": "youli42",
+            "repo": "Trilium-TodoList",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tag Search",
+          "description": "A tag search widget that displays popular tags above notes. Click tag name or value to filter, supports full-text search, exact/value matching, pagination, and search history with weighted sort.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-04T10:35:22Z",
+            "owner": "youli42",
+            "repo": "Trilium-TagSearch",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Favourites Panel",
+          "description": "A favourites panel that displays notes with a configurable label (default ) as a card grid with tag filtering, text search, pagination, custom icons and color accents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-22T03:31:55Z",
+            "owner": "youli42",
+            "repo": "Trilium-Favourite",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "💥 Extension HTML Note"
+    },
+    {
+      "description": "Mobile phone related cool stuff.",
+      "items": [],
+      "title": "📱 Mobile"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Run Trilium Server in Termux on Android",
+          "description": "Your server in your hand. Have fun :)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:35:10Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TriliumDroid",
+          "description": "Unofficial port of Trilium to Android, in beta",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-06T05:48:38Z",
+            "owner": "FliegendeWurst",
+            "repo": "TriliumDroid",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pocket Trilium",
+          "description": "Full-featured android app for Trilium. Works offline and can sync with Trilium server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-10T02:43:02Z",
+            "owner": "Nriver",
+            "repo": "pocket-trilium",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-sender",
+          "description": "A simple write-only android application for sending images and notes to Trilium",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-07-21T11:35:21Z",
+            "owner": "zadam",
+            "repo": "trilium-sender",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trilium-termux",
+          "description": "Trilium in termux. Auto check Trilium releases and publish.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-14T10:19:27Z",
+            "owner": "jasongwq",
+            "repo": "Trilium-termux",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Run TriliumNext Server in Termux on Android",
+          "description": "Power of TriliumNext, in the palm of your hand.",
+          "children": []
+        }
+      ],
+      "title": "🤖 Android"
+    },
+    {
+      "description": "Trilium's external API (aka ETAPI) related stuff.",
+      "items": [],
+      "title": "🖥️ ETAPI"
+    },
+    {
+      "description": "The client implementations for ETAPI.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "trilium-py",
+          "description": "Python client for ETAPI of Trilium Note with some extra cool features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-26T10:21:30Z",
+            "owner": "Nriver",
+            "repo": "trilium-py",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytrilium",
+          "description": "Python client for ETAPI of Trilium Notes that contains all currently valid ETAPI paths, and implements a custom underlying session.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T06:04:50Z",
+            "owner": "perfectra1n",
+            "repo": "pytrilium",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-alchemy",
+          "description": "Python SDK and CLI toolkit for Trilium Notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T06:10:25Z",
+            "owner": "mm21",
+            "repo": "trilium-alchemy",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-etapi",
+          "description": "A Node.js wrapper around the ETAPI for Trilium Notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-13T01:25:49Z",
+            "owner": "zerebos",
+            "repo": "trilium-etapi",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-pwsh",
+          "description": "A PowerShell wrapper around the ETAPI for Trilium Notes, with some extra features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-05-17T15:08:28Z",
+            "owner": "ptmorris1",
+            "repo": "TriliumNext-Powershell-Module",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "🦾 ETAPI client"
+    },
+    {
+      "description": "Programs based on triliums ETAPI.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Trilium2typecho",
+          "description": "Sync Trilium Notes to typecho automatically. A demo Telegram bot for Trilium, powered by trilium-py.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-26T10:21:30Z",
+            "owner": "Nriver",
+            "repo": "trilium-py",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zotero-trilium",
+          "description": "Add-on for Zotero reference manager, lets you export formatted references and notes across to Trilium.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-16T06:35:13Z",
+            "owner": "paulusm",
+            "repo": "zotero-trilium",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-bot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-15T01:25:59Z",
+            "owner": "Nriver",
+            "repo": "trilium-bot",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-blog",
+          "description": "A modern and lightweight blog system based on Trilium Notes, supporting Vue 3 front-end and Go back-end, deployed using Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-04T08:03:31Z",
+            "owner": "harveyTon",
+            "repo": "trilium-blog",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omnivore2trilium",
+          "description": "A tool that imports highlights directly into Trilium from Omnivore, a Read-It-Later App.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-13T12:14:27Z",
+            "owner": "0xbismarck",
+            "repo": "omnivore2trilium",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "triliumclipper",
+          "description": "A Thunderbird add-on that enables you to create notes from your e-mails from inside Thunderbird.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-06T01:10:35Z",
+            "owner": "0xbismarck",
+            "repo": "ThunderbirdTriliumClipper",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-sender-bot",
+          "description": "Send notes from Telegram straight into Trilium.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-16T17:48:43Z",
+            "owner": "rainrisa",
+            "repo": "trilium-sender-bot",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trilium_Telegram_bot",
+          "description": "Send notes and manage ToDo's from Telegram straight into Trilium.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-04T21:22:16Z",
+            "owner": "ktibr0",
+            "repo": "Trilium_telegram_bot",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libby2trilium",
+          "description": "Import your book highlights and notes from Libby into Trilium Notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-25T00:32:52Z",
+            "owner": "0xbismarck",
+            "repo": "libby2trilium",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "🤖 ETAPI programs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Trilium Web Clipper",
+          "description": "Save web clippings to Trilium Notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-18T04:12:10Z",
+            "owner": "zadam",
+            "repo": "trilium-web-clipper",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trilium Web Clipper Plus",
+          "description": "Fork of Trilium Web Clipper. Adapted to Chrome Manifest V3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-04T07:10:04Z",
+            "owner": "Nriver",
+            "repo": "trilium-web-clipper-plus",
+            "stars": 68
+          }
+        }
+      ],
+      "title": "🧩 Chrome Extensions"
+    },
+    {
+      "description": "Development tools for developing Trilium and its plugins.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "trilium-types",
+          "description": "A TypeScript package for Trilium Notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-12T22:48:57Z",
+            "owner": "zerebos",
+            "repo": "trilium-types",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium-pack",
+          "description": "A simple way to pack addons as files for Trilium Notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-19T05:09:40Z",
+            "owner": "zerebos",
+            "repo": "trilium-pack",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "👨‍💻 Development Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "official wiki",
+          "description": "The official wiki of trilium.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:35:10Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chinese wiki",
+          "description": "A Chinese translation of the official wiki.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-05-31T13:56:01Z",
+            "owner": "baddate",
+            "repo": "trilium-wiki",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "📚 Wikis & documents"
+    },
+    {
+      "description": "You are welcome to fork and contribute to this repo.\nThe Table of Contents part is generated by https://github.com/ekalinin/github-markdown-toc. Then reformatted by in PyCharm.",
+      "items": [],
+      "title": "🔥 Contribution"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:38:25.953Z",
+    "original_repository": "Nriver/awesome-trilium",
+    "original_repository_sha": "2004e4acd26e193729a818d7a46c77f85e57ae7c",
+    "enhanced_repository": "enhansome/enhansome-trilium",
+    "enhanced_repository_description": null,
+    "title": "😎 awesome-trilium with stars"
+  }
+}
