@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:46:40Z",
+            "last_commit": "2026-08-19T11:50:51Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37483
+            "stars": 37499
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:46:40Z",
+            "last_commit": "2026-08-19T11:50:51Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37483
+            "stars": 37499
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:46:40Z",
+            "last_commit": "2026-08-19T11:50:51Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37483
+            "stars": 37499
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:46:40Z",
+            "last_commit": "2026-08-19T11:50:51Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37483
+            "stars": 37499
           }
         },
         {
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:46:40Z",
+            "last_commit": "2026-08-19T11:50:51Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37483
+            "stars": 37499
           }
         },
         {
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 457650117,
             "language": "Python",
             "last_commit": "2026-05-26T10:21:30Z",
             "owner": "Nriver",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 457650117,
             "language": "Python",
             "last_commit": "2026-05-26T10:21:30Z",
             "owner": "Nriver",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 457650117,
             "language": "Python",
             "last_commit": "2026-05-26T10:21:30Z",
             "owner": "Nriver",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 457650117,
             "language": "Python",
             "last_commit": "2026-05-26T10:21:30Z",
             "owner": "Nriver",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 457650117,
             "language": "Python",
             "last_commit": "2026-05-26T10:21:30Z",
             "owner": "Nriver",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 457650117,
             "language": "Python",
             "last_commit": "2026-05-26T10:21:30Z",
             "owner": "Nriver",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 590184088,
             "language": "JavaScript",
             "last_commit": "2026-04-16T06:35:13Z",
             "owner": "paulusm",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1144506007,
             "language": "PHP",
             "last_commit": "2026-01-28T18:53:36Z",
             "owner": "ShellUnease",
@@ -189,7 +202,7 @@
       "title": "📥 Migrating to Trilium"
     },
     {
-      "description": "App Themes\nApp Themes provide theming to the Trilium application. Typically, these notes are labeled with with a value which indicates the name of the theme displayed in Trilium's options panel.",
+      "description": "App Themes\nApp Themes provide theming to the Trilium application. Typically, these notes are labeled with with a value which indicates the name of the theme displayed in Trilium's options panel.\nSharing Themes\nSharing themes provide theming to shared notes! A sharing note can use custom theme by using relation to a css note. See Styling the shared notes for more info.",
       "items": [
         {
           "node_type": "item",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 488487656,
             "language": "CSS",
             "last_commit": "2026-07-21T10:49:20Z",
             "owner": "SiriusXT",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 336155933,
             "language": "CSS",
             "last_commit": "2025-11-20T07:34:08Z",
             "owner": "JadeVane",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208787446,
             "language": "CSS",
             "last_commit": "2024-04-20T21:41:54Z",
             "owner": "raphwriter",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 675768704,
             "language": "CSS",
             "last_commit": "2025-03-27T08:19:55Z",
             "owner": "catppuccin",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 779618822,
             "language": "CSS",
             "last_commit": "2024-03-30T18:22:58Z",
             "owner": "ohmstance",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 453053659,
             "language": "CSS",
             "last_commit": "2022-02-23T07:46:41Z",
             "owner": "mondayrobot",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 445956714,
             "language": "Less",
             "last_commit": "2024-04-20T06:53:28Z",
             "owner": "eliandoran",
@@ -293,16 +313,10 @@
           "node_type": "item",
           "title": "Obsidian Theme",
           "description": "Dark theme with minor purple highlights for Trilium Notes",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Trilium Greensidian Theme",
-              "description": "Green color version of Obsidian Theme",
-              "children": []
-            }
-          ],
+          "children": [],
           "repo_info": {
             "archived": false,
+            "id": 581654675,
             "language": "CSS",
             "last_commit": "2023-03-14T05:13:46Z",
             "owner": "greengeek",
@@ -317,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 585004883,
             "language": "CSS",
             "last_commit": "2023-03-14T05:11:14Z",
             "owner": "greengeek",
@@ -331,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 439723402,
             "language": "CSS",
             "last_commit": "2026-01-19T18:24:19Z",
             "owner": "Lolabird",
@@ -345,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 637980774,
             "language": "CSS",
             "last_commit": "2024-11-19T06:51:11Z",
             "owner": "DavidFuchs",
@@ -359,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 818060504,
             "language": "CSS",
             "last_commit": "2024-07-05T05:47:48Z",
             "owner": "Nriver",
@@ -373,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 372805442,
             "language": "CSS",
             "last_commit": "2025-01-21T01:23:17Z",
             "owner": "Nriver",
@@ -392,6 +411,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1329612769,
                 "language": "CSS",
                 "last_commit": "2026-08-12T06:23:47Z",
                 "owner": "calico-cat-3333",
@@ -402,6 +422,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 347777028,
             "language": "CSS",
             "last_commit": "2021-11-01T16:16:30Z",
             "owner": "WKSu",
@@ -416,6 +437,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 846312451,
             "language": "CSS",
             "last_commit": "2026-01-19T18:24:54Z",
             "owner": "Lolabird",
@@ -430,6 +452,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 679173783,
             "language": "CSS",
             "last_commit": "2023-08-31T04:34:37Z",
             "owner": "Ivy-End",
@@ -444,6 +467,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 857833918,
             "language": "CSS",
             "last_commit": "2026-08-11T12:00:14Z",
             "owner": "perfectra1n",
@@ -458,6 +482,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1077684548,
             "language": "CSS",
             "last_commit": "2025-10-21T14:40:48Z",
             "owner": "cocolight",
@@ -472,6 +497,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 860393164,
             "language": "CSS",
             "last_commit": "2025-07-18T09:33:15Z",
             "owner": "yu-jingrui",
@@ -486,25 +512,151 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1215361958,
             "language": "CSS",
             "last_commit": "2026-04-19T20:28:20Z",
             "owner": "DikshantJangra",
             "repo": "void-trilium-theme",
             "stars": 0
           }
+        },
+        {
+          "node_type": "item",
+          "title": "ysslang's theme",
+          "description": "Paper with shadow effect, cool!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92111509,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T11:50:51Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ankia-Theme",
+          "description": "A card-style Trilium blog theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 732596713,
+            "language": "EJS",
+            "last_commit": "2024-06-14T11:09:47Z",
+            "owner": "dvai",
+            "repo": "Ankia-Theme",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FrostMiKu/Share.CSS",
+          "description": "A nice and clean theme for sharing notes. You should try it!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 586920765,
+            "language": "CSS",
+            "last_commit": "2023-04-25T10:06:57Z",
+            "owner": "FrostMiKu",
+            "repo": "Share.CSS",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WhiteMinimalist-Theme",
+          "description": "A WhiteMinimalist Theme blog theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 843841713,
+            "language": "EJS",
+            "last_commit": "2025-09-19T04:58:57Z",
+            "owner": "Shmaur",
+            "repo": "WhiteMinimalist-Theme",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Akari-Theme",
+          "description": "Based on the Ankia and WhiteMinimalist themes, it includes a beautified homepage, embedded Kimi Chat, mask color settings, collapsible unordered lists and code blocks, a searchable and collapsible table of contents, Sakana! Widget, background music, a fully expanded navigation menu, localized MathJax right-click menu, hover-to-zoom emoji previews in comments, more pages with background image settings, and bug fixes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1097568509,
+            "language": "HTML",
+            "last_commit": "2025-11-21T09:14:19Z",
+            "owner": "march-7th-mini",
+            "repo": "Trilium-X-Akari",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zfy theme",
+          "description": "A simple card-style Trilium blog theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1238259200,
+            "language": "JavaScript",
+            "last_commit": "2026-05-30T14:17:05Z",
+            "owner": "brucevon",
+            "repo": "zfy",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trilium.rocks theme",
+          "description": "This uses the same theme that's used on the trilium.rocks site from @zerebos. The link above also includes the instructions on how it can be installed. Can also be created from scratch here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 872600286,
+            "language": "TypeScript",
+            "last_commit": "2025-09-03T16:10:27Z",
+            "owner": "perfectra1n",
+            "repo": "trilium.rocks",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uweizh/trilium-sharecss",
+          "description": "A gradient color theme for shareing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 854558918,
+            "language": "CSS",
+            "last_commit": "2024-09-09T12:37:19Z",
+            "owner": "uweizh",
+            "repo": "trilium-sharecss",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wenxin Theme",
+          "description": "A clean, modern sharing theme with PJAX navigation, scroll position memory, and responsive design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1318183371,
+            "language": "CSS",
+            "last_commit": "2026-08-11T14:00:11Z",
+            "owner": "doonly1",
+            "repo": "Wenxin-theme",
+            "stars": 0
+          }
         }
       ],
       "title": "🏡 Themes"
-    },
-    {
-      "description": "The Icon Pack feature was introduced in Trilium 0.102.0. Customize your notes with a variety of icon styles.",
-      "items": [],
-      "title": "🎨 Icon Packs"
-    },
-    {
-      "description": "Check out the official Trilium icon pack here.",
-      "items": [],
-      "title": "Official Icon Pack"
     },
     {
       "description": "Custom CSS is used to alter the appearance of Trilium. These code snippets are typically labeled with . See (Trilium Wiki for instructions on how to enable custom CSS)",
@@ -516,11 +668,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:46:40Z",
+            "last_commit": "2026-08-19T11:50:51Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37483
+            "stars": 37499
           }
         },
         {
@@ -530,11 +683,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:46:40Z",
+            "last_commit": "2026-08-19T11:50:51Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37483
+            "stars": 37499
           }
         },
         {
@@ -544,11 +698,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:46:40Z",
+            "last_commit": "2026-08-19T11:50:51Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37483
+            "stars": 37499
           }
         },
         {
@@ -558,11 +713,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:46:40Z",
+            "last_commit": "2026-08-19T11:50:51Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37483
+            "stars": 37499
           }
         },
         {
@@ -572,6 +728,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 757501602,
             "language": "TypeScript",
             "last_commit": "2025-06-24T20:24:23Z",
             "owner": "TriliumNext",
@@ -586,6 +743,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 605950323,
             "language": null,
             "last_commit": "2026-08-11T14:13:04Z",
             "owner": "Nriver",
@@ -600,6 +758,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 605950323,
             "language": null,
             "last_commit": "2026-08-11T14:13:04Z",
             "owner": "Nriver",
@@ -614,6 +773,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 824388563,
             "language": "CSS",
             "last_commit": "2024-11-08T05:54:09Z",
             "owner": "Nriver",
@@ -628,6 +788,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 891916166,
             "language": "JavaScript",
             "last_commit": "2025-05-22T07:33:51Z",
             "owner": "SiriusXT",
@@ -642,6 +803,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1035432776,
             "language": null,
             "last_commit": "2025-11-16T13:34:42Z",
             "owner": "march-7th-mini",
@@ -662,11 +824,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:46:40Z",
+            "last_commit": "2026-08-19T11:50:51Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37483
+            "stars": 37499
           }
         },
         {
@@ -676,11 +839,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:46:40Z",
+            "last_commit": "2026-08-19T11:50:51Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37483
+            "stars": 37499
           }
         },
         {
@@ -690,6 +854,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 486571551,
             "language": "JavaScript",
             "last_commit": "2022-09-11T07:37:12Z",
             "owner": "antoniotejada",
@@ -704,6 +869,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 679340509,
             "language": "TypeScript",
             "last_commit": "2026-05-26T22:46:36Z",
             "owner": "zerebos",
@@ -718,6 +884,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 801981073,
             "language": "JavaScript",
             "last_commit": "2025-04-19T06:21:41Z",
             "owner": "waterovo",
@@ -737,6 +904,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1105190946,
                 "language": null,
                 "last_commit": "2025-11-27T09:46:39Z",
                 "owner": "Userwei0418",
@@ -747,6 +915,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 914145338,
             "language": "JavaScript",
             "last_commit": "2025-03-26T06:15:32Z",
             "owner": "Nriver",
@@ -761,6 +930,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798112741,
             "language": "JavaScript",
             "last_commit": "2025-03-28T01:48:09Z",
             "owner": "Nriver",
@@ -775,6 +945,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1123636426,
             "language": null,
             "last_commit": "2025-12-27T12:16:59Z",
             "owner": "Userwei0418",
@@ -789,6 +960,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 613904437,
             "language": "JavaScript",
             "last_commit": "2025-12-26T01:52:50Z",
             "owner": "SiriusXT",
@@ -808,6 +980,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1105148826,
                 "language": null,
                 "last_commit": "2025-11-27T08:27:41Z",
                 "owner": "Userwei0418",
@@ -818,6 +991,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 709585756,
             "language": "JavaScript",
             "last_commit": "2025-08-27T03:53:57Z",
             "owner": "Nriver",
@@ -832,6 +1006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 617244139,
             "language": "JavaScript",
             "last_commit": "2024-11-12T08:38:26Z",
             "owner": "SiriusXT",
@@ -846,6 +1021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 602837877,
             "language": "JavaScript",
             "last_commit": "2025-05-10T02:12:47Z",
             "owner": "SiriusXT",
@@ -860,6 +1036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 714417467,
             "language": null,
             "last_commit": "2024-02-22T00:21:17Z",
             "owner": "madodig",
@@ -874,6 +1051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 686278115,
             "language": "JavaScript",
             "last_commit": "2023-09-06T09:15:51Z",
             "owner": "justyns",
@@ -888,6 +1066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 621119649,
             "language": "JavaScript",
             "last_commit": "2024-11-25T09:22:24Z",
             "owner": "SiriusXT",
@@ -902,6 +1081,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 789342418,
             "language": null,
             "last_commit": "2024-07-09T07:37:51Z",
             "owner": "waterovo",
@@ -916,6 +1096,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1124170438,
             "language": null,
             "last_commit": "2025-12-28T15:05:23Z",
             "owner": "Userwei0418",
@@ -930,6 +1111,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 877151066,
             "language": "JavaScript",
             "last_commit": "2025-05-19T02:59:40Z",
             "owner": "Nriver",
@@ -944,6 +1126,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 748462850,
             "language": "JavaScript",
             "last_commit": "2024-01-26T03:26:43Z",
             "owner": "SiriusXT",
@@ -958,6 +1141,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1123399177,
             "language": null,
             "last_commit": "2025-12-26T20:02:21Z",
             "owner": "Userwei0418",
@@ -972,6 +1156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 780328597,
             "language": "JavaScript",
             "last_commit": "2024-04-15T08:19:43Z",
             "owner": "Nriver",
@@ -986,6 +1171,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 510942981,
             "language": "JavaScript",
             "last_commit": "2023-08-20T22:50:19Z",
             "owner": "Lolabird",
@@ -1000,6 +1186,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1119353724,
             "language": null,
             "last_commit": "2025-12-19T06:32:15Z",
             "owner": "Userwei0418",
@@ -1014,6 +1201,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1242166744,
             "language": "JavaScript",
             "last_commit": "2026-05-18T08:53:58Z",
             "owner": "Nriver",
@@ -1028,6 +1216,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 921879126,
             "language": "JavaScript",
             "last_commit": "2025-05-28T15:35:37Z",
             "owner": "AzzyB",
@@ -1042,6 +1231,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1194713319,
             "language": "JavaScript",
             "last_commit": "2026-06-28T15:11:06Z",
             "owner": "Stefan-Schmidbauer",
@@ -1056,6 +1246,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1174791510,
             "language": "JavaScript",
             "last_commit": "2026-03-08T22:08:49Z",
             "owner": "yiranlus",
@@ -1076,11 +1267,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:46:40Z",
+            "last_commit": "2026-08-19T11:50:51Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37483
+            "stars": 37499
           }
         },
         {
@@ -1090,11 +1282,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:46:40Z",
+            "last_commit": "2026-08-19T11:50:51Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37483
+            "stars": 37499
           }
         },
         {
@@ -1104,11 +1297,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:46:40Z",
+            "last_commit": "2026-08-19T11:50:51Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37483
+            "stars": 37499
           }
         },
         {
@@ -1118,11 +1312,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:46:40Z",
+            "last_commit": "2026-08-19T11:50:51Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37483
+            "stars": 37499
           }
         },
         {
@@ -1132,6 +1327,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 374257967,
             "language": "HTML",
             "last_commit": "2026-07-08T03:29:58Z",
             "owner": "Nriver",
@@ -1146,6 +1342,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 649507029,
             "language": "JavaScript",
             "last_commit": "2024-08-30T16:52:53Z",
             "owner": "soulsands",
@@ -1160,6 +1357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 634356415,
             "language": "JavaScript",
             "last_commit": "2026-08-17T17:17:25Z",
             "owner": "BeatLink",
@@ -1179,6 +1377,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 374257967,
                 "language": "HTML",
                 "last_commit": "2026-07-08T03:29:58Z",
                 "owner": "Nriver",
@@ -1189,6 +1388,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 634356415,
             "language": "JavaScript",
             "last_commit": "2026-08-17T17:17:25Z",
             "owner": "BeatLink",
@@ -1203,6 +1403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 634356415,
             "language": "JavaScript",
             "last_commit": "2026-08-17T17:17:25Z",
             "owner": "BeatLink",
@@ -1217,6 +1418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 609892332,
             "language": "JavaScript",
             "last_commit": "2023-04-04T20:14:34Z",
             "owner": "salmund",
@@ -1231,6 +1433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 742359403,
             "language": "JavaScript",
             "last_commit": "2024-01-12T10:34:42Z",
             "owner": "dvai",
@@ -1245,6 +1448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1238648148,
             "language": "JavaScript",
             "last_commit": "2026-08-17T09:32:00Z",
             "owner": "ecodiv",
@@ -1259,6 +1463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1229154465,
             "language": "JavaScript",
             "last_commit": "2026-05-04T18:58:24Z",
             "owner": "mrbeandev",
@@ -1273,6 +1478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1296431598,
             "language": "JavaScript",
             "last_commit": "2026-07-11T01:54:07Z",
             "owner": "npgwgmggta",
@@ -1287,18 +1493,13 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 662702631,
             "language": "Python",
             "last_commit": "2023-12-12T16:53:03Z",
             "owner": "jwhonce",
             "repo": "trilium-addons",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Calendar & Timetable",
-          "description": "Implements a calendar, timetable, and even a musical fretboard.",
-          "children": []
         }
       ],
       "title": "🪄 Scripts"
@@ -1313,6 +1514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 634444356,
             "language": "JavaScript",
             "last_commit": "2026-07-25T04:09:05Z",
             "owner": "SiriusXT",
@@ -1327,6 +1529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 340748695,
             "language": "TypeScript",
             "last_commit": "2024-03-06T23:20:04Z",
             "owner": "mabeyj",
@@ -1341,6 +1544,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 725267223,
             "language": "JavaScript",
             "last_commit": "2024-08-18T07:58:04Z",
             "owner": "CyrilLeblanc",
@@ -1355,6 +1559,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 693446609,
             "language": "TypeScript",
             "last_commit": "2026-03-07T17:11:54Z",
             "owner": "zerebos",
@@ -1369,6 +1574,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 679034604,
             "language": "JavaScript",
             "last_commit": "2023-09-04T21:55:39Z",
             "owner": "zerebos",
@@ -1383,6 +1589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 684635820,
             "language": "CSS",
             "last_commit": "2024-03-18T11:31:39Z",
             "owner": "dvai",
@@ -1397,6 +1604,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 694851777,
             "language": "JavaScript",
             "last_commit": "2023-09-21T20:37:21Z",
             "owner": "zerebos",
@@ -1411,6 +1619,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 697004319,
             "language": "JavaScript",
             "last_commit": "2023-11-07T20:34:23Z",
             "owner": "sottey",
@@ -1425,6 +1634,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1248013681,
             "language": "JavaScript",
             "last_commit": "2026-06-27T14:06:39Z",
             "owner": "youli42",
@@ -1439,6 +1649,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1228741967,
             "language": "JavaScript",
             "last_commit": "2026-05-04T10:35:22Z",
             "owner": "youli42",
@@ -1453,6 +1664,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1245213771,
             "language": "JavaScript",
             "last_commit": "2026-05-22T03:31:55Z",
             "owner": "youli42",
@@ -1465,306 +1677,324 @@
     },
     {
       "description": "Mobile phone related cool stuff.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Run Trilium Server in Termux on Android",
+              "description": "Your server in your hand. Have fun :)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92111509,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T11:50:51Z",
+                "owner": "TriliumNext",
+                "repo": "Trilium",
+                "stars": 37499
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TriliumDroid",
+              "description": "Unofficial port of Trilium to Android, in beta",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 741034482,
+                "language": "Kotlin",
+                "last_commit": "2026-08-15T12:46:10Z",
+                "owner": "FliegendeWurst",
+                "repo": "TriliumDroid",
+                "stars": 380
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pocket Trilium",
+              "description": "Full-featured android app for Trilium. Works offline and can sync with Trilium server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1130084983,
+                "language": "Dart",
+                "last_commit": "2026-08-10T02:43:02Z",
+                "owner": "Nriver",
+                "repo": "pocket-trilium",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trilium-sender",
+              "description": "A simple write-only android application for sending images and notes to Trilium",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121076583,
+                "language": "Kotlin",
+                "last_commit": "2024-07-21T11:35:21Z",
+                "owner": "zadam",
+                "repo": "trilium-sender",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Trilium-termux",
+              "description": "Trilium in termux. Auto check Trilium releases and publish.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1054861831,
+                "language": null,
+                "last_commit": "2026-05-14T10:19:27Z",
+                "owner": "jasongwq",
+                "repo": "Trilium-termux",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🤖 Android"
+        }
+      ],
       "title": "📱 Mobile"
     },
     {
-      "description": "",
+      "description": "Trilium's external API (aka ETAPI) related stuff.",
       "items": [
         {
-          "node_type": "item",
-          "title": "Run Trilium Server in Termux on Android",
-          "description": "Your server in your hand. Have fun :)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T15:46:40Z",
-            "owner": "TriliumNext",
-            "repo": "Trilium",
-            "stars": 37483
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "trilium-py",
+              "description": "Python client for ETAPI of Trilium Note with some extra cool features.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 457650117,
+                "language": "Python",
+                "last_commit": "2026-05-26T10:21:30Z",
+                "owner": "Nriver",
+                "repo": "trilium-py",
+                "stars": 229
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pytrilium",
+              "description": "Python client for ETAPI of Trilium Notes that contains all currently valid ETAPI paths, and implements a custom underlying session.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617781159,
+                "language": "Python",
+                "last_commit": "2026-08-18T06:16:01Z",
+                "owner": "perfectra1n",
+                "repo": "pytrilium",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trilium-alchemy",
+              "description": "Python SDK and CLI toolkit for Trilium Notes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 675229411,
+                "language": "Python",
+                "last_commit": "2026-07-31T06:10:25Z",
+                "owner": "mm21",
+                "repo": "trilium-alchemy",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trilium-etapi",
+              "description": "A Node.js wrapper around the ETAPI for Trilium Notes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 681986691,
+                "language": "TypeScript",
+                "last_commit": "2024-06-13T01:25:49Z",
+                "owner": "zerebos",
+                "repo": "trilium-etapi",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trilium-pwsh",
+              "description": "A PowerShell wrapper around the ETAPI for Trilium Notes, with some extra features.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 897894729,
+                "language": "PowerShell",
+                "last_commit": "2026-05-17T15:08:28Z",
+                "owner": "ptmorris1",
+                "repo": "TriliumNext-Powershell-Module",
+                "stars": 1
+              }
+            }
+          ],
+          "description": "The client implementations for ETAPI.",
+          "node_type": "group",
+          "title": "🦾 ETAPI client"
         },
         {
-          "node_type": "item",
-          "title": "TriliumDroid",
-          "description": "Unofficial port of Trilium to Android, in beta",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-15T12:46:10Z",
-            "owner": "FliegendeWurst",
-            "repo": "TriliumDroid",
-            "stars": 380
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pocket Trilium",
-          "description": "Full-featured android app for Trilium. Works offline and can sync with Trilium server.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2026-08-10T02:43:02Z",
-            "owner": "Nriver",
-            "repo": "pocket-trilium",
-            "stars": 118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "trilium-sender",
-          "description": "A simple write-only android application for sending images and notes to Trilium",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-07-21T11:35:21Z",
-            "owner": "zadam",
-            "repo": "trilium-sender",
-            "stars": 99
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Trilium-termux",
-          "description": "Trilium in termux. Auto check Trilium releases and publish.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-14T10:19:27Z",
-            "owner": "jasongwq",
-            "repo": "Trilium-termux",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Run TriliumNext Server in Termux on Android",
-          "description": "Power of TriliumNext, in the palm of your hand.",
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Trilium2typecho",
+              "description": "Sync Trilium Notes to typecho automatically. A demo Telegram bot for Trilium, powered by trilium-py.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 457650117,
+                "language": "Python",
+                "last_commit": "2026-05-26T10:21:30Z",
+                "owner": "Nriver",
+                "repo": "trilium-py",
+                "stars": 229
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zotero-trilium",
+              "description": "Add-on for Zotero reference manager, lets you export formatted references and notes across to Trilium.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 590184088,
+                "language": "JavaScript",
+                "last_commit": "2026-04-16T06:35:13Z",
+                "owner": "paulusm",
+                "repo": "zotero-trilium",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trilium-bot",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 462116659,
+                "language": "Python",
+                "last_commit": "2024-03-15T01:25:59Z",
+                "owner": "Nriver",
+                "repo": "trilium-bot",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trilium-blog",
+              "description": "A modern and lightweight blog system based on Trilium Notes, supporting Vue 3 front-end and Go back-end, deployed using Docker.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 877387887,
+                "language": "Go",
+                "last_commit": "2026-06-04T08:03:31Z",
+                "owner": "harveyTon",
+                "repo": "trilium-blog",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "omnivore2trilium",
+              "description": "A tool that imports highlights directly into Trilium from Omnivore, a Read-It-Later App.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 759387010,
+                "language": "Python",
+                "last_commit": "2024-05-13T12:14:27Z",
+                "owner": "0xbismarck",
+                "repo": "omnivore2trilium",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "triliumclipper",
+              "description": "A Thunderbird add-on that enables you to create notes from your e-mails from inside Thunderbird.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 913532656,
+                "language": "JavaScript",
+                "last_commit": "2026-08-06T01:10:35Z",
+                "owner": "0xbismarck",
+                "repo": "ThunderbirdTriliumClipper",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trilium-sender-bot",
+              "description": "Send notes from Telegram straight into Trilium.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1117110814,
+                "language": "Python",
+                "last_commit": "2025-12-16T17:48:43Z",
+                "owner": "rainrisa",
+                "repo": "trilium-sender-bot",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Trilium_Telegram_bot",
+              "description": "Send notes and manage ToDo's from Telegram straight into Trilium.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 946882040,
+                "language": "Python",
+                "last_commit": "2026-01-04T21:22:16Z",
+                "owner": "ktibr0",
+                "repo": "Trilium_telegram_bot",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libby2trilium",
+              "description": "Import your book highlights and notes from Libby into Trilium Notes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 937883550,
+                "language": "Python",
+                "last_commit": "2025-06-25T00:32:52Z",
+                "owner": "0xbismarck",
+                "repo": "libby2trilium",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "Programs based on triliums ETAPI.",
+          "node_type": "group",
+          "title": "🤖 ETAPI programs"
         }
       ],
-      "title": "🤖 Android"
-    },
-    {
-      "description": "Trilium's external API (aka ETAPI) related stuff.",
-      "items": [],
       "title": "🖥️ ETAPI"
     },
     {
-      "description": "The client implementations for ETAPI.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "trilium-py",
-          "description": "Python client for ETAPI of Trilium Note with some extra cool features.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-26T10:21:30Z",
-            "owner": "Nriver",
-            "repo": "trilium-py",
-            "stars": 229
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pytrilium",
-          "description": "Python client for ETAPI of Trilium Notes that contains all currently valid ETAPI paths, and implements a custom underlying session.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T06:16:01Z",
-            "owner": "perfectra1n",
-            "repo": "pytrilium",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "trilium-alchemy",
-          "description": "Python SDK and CLI toolkit for Trilium Notes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-31T06:10:25Z",
-            "owner": "mm21",
-            "repo": "trilium-alchemy",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "trilium-etapi",
-          "description": "A Node.js wrapper around the ETAPI for Trilium Notes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-06-13T01:25:49Z",
-            "owner": "zerebos",
-            "repo": "trilium-etapi",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "trilium-pwsh",
-          "description": "A PowerShell wrapper around the ETAPI for Trilium Notes, with some extra features.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2026-05-17T15:08:28Z",
-            "owner": "ptmorris1",
-            "repo": "TriliumNext-Powershell-Module",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "🦾 ETAPI client"
-    },
-    {
-      "description": "Programs based on triliums ETAPI.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Trilium2typecho",
-          "description": "Sync Trilium Notes to typecho automatically. A demo Telegram bot for Trilium, powered by trilium-py.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-26T10:21:30Z",
-            "owner": "Nriver",
-            "repo": "trilium-py",
-            "stars": 229
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zotero-trilium",
-          "description": "Add-on for Zotero reference manager, lets you export formatted references and notes across to Trilium.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-16T06:35:13Z",
-            "owner": "paulusm",
-            "repo": "zotero-trilium",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "trilium-bot",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-15T01:25:59Z",
-            "owner": "Nriver",
-            "repo": "trilium-bot",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "trilium-blog",
-          "description": "A modern and lightweight blog system based on Trilium Notes, supporting Vue 3 front-end and Go back-end, deployed using Docker.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-04T08:03:31Z",
-            "owner": "harveyTon",
-            "repo": "trilium-blog",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omnivore2trilium",
-          "description": "A tool that imports highlights directly into Trilium from Omnivore, a Read-It-Later App.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-13T12:14:27Z",
-            "owner": "0xbismarck",
-            "repo": "omnivore2trilium",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "triliumclipper",
-          "description": "A Thunderbird add-on that enables you to create notes from your e-mails from inside Thunderbird.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-06T01:10:35Z",
-            "owner": "0xbismarck",
-            "repo": "ThunderbirdTriliumClipper",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "trilium-sender-bot",
-          "description": "Send notes from Telegram straight into Trilium.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-16T17:48:43Z",
-            "owner": "rainrisa",
-            "repo": "trilium-sender-bot",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Trilium_Telegram_bot",
-          "description": "Send notes and manage ToDo's from Telegram straight into Trilium.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-04T21:22:16Z",
-            "owner": "ktibr0",
-            "repo": "Trilium_telegram_bot",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libby2trilium",
-          "description": "Import your book highlights and notes from Libby into Trilium Notes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-25T00:32:52Z",
-            "owner": "0xbismarck",
-            "repo": "libby2trilium",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "🤖 ETAPI programs"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1773,6 +2003,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197824737,
             "language": "JavaScript",
             "last_commit": "2024-05-18T04:12:10Z",
             "owner": "zadam",
@@ -1787,6 +2018,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 999916467,
             "language": "JavaScript",
             "last_commit": "2026-03-04T07:10:04Z",
             "owner": "Nriver",
@@ -1807,6 +2039,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 681019360,
             "language": null,
             "last_commit": "2024-06-12T22:48:57Z",
             "owner": "zerebos",
@@ -1821,6 +2054,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 686873934,
             "language": "JavaScript",
             "last_commit": "2023-09-19T05:09:40Z",
             "owner": "zerebos",
@@ -1832,7 +2066,7 @@
       "title": "👨‍💻 Development Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1841,11 +2075,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:46:40Z",
+            "last_commit": "2026-08-19T11:50:51Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37483
+            "stars": 37499
           }
         },
         {
@@ -1855,6 +2090,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 521122301,
             "language": "CSS",
             "last_commit": "2026-05-31T13:56:01Z",
             "owner": "baddate",
@@ -1864,16 +2100,12 @@
         }
       ],
       "title": "📚 Wikis & documents"
-    },
-    {
-      "description": "You are welcome to fork and contribute to this repo.\nThe Table of Contents part is generated by https://github.com/ekalinin/github-markdown-toc. Then reformatted by in PyCharm.",
-      "items": [],
-      "title": "🔥 Contribution"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:51:59.647Z",
+    "last_updated": "2026-08-19T12:54:40.867Z",
     "original_repository": "Nriver/awesome-trilium",
+    "original_repository_id": 605950323,
     "original_repository_sha": "2004e4acd26e193729a818d7a46c77f85e57ae7c",
     "enhanced_repository": "enhansome/enhansome-trilium",
     "enhanced_repository_description": null,
