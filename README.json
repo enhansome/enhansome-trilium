@@ -10,12 +10,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your personal knowledge base with Trilium Notes",
+            "homepage": "https://triliumnotes.org",
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:40:29Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:36:17Z",
+            "open_issues": 709,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37625
+            "stars": 37626,
+            "topics": [
+              "electron",
+              "electron-app",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-management-graph",
+              "local-first",
+              "note-managment",
+              "note-taker",
+              "note-taking",
+              "notebook",
+              "notes",
+              "notes-app",
+              "personal-knowledge-base",
+              "personal-wiki",
+              "scriptable",
+              "self-hosted",
+              "self-hosting",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -26,12 +51,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your personal knowledge base with Trilium Notes",
+            "homepage": "https://triliumnotes.org",
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:40:29Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:36:17Z",
+            "open_issues": 709,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37625
+            "stars": 37626,
+            "topics": [
+              "electron",
+              "electron-app",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-management-graph",
+              "local-first",
+              "note-managment",
+              "note-taker",
+              "note-taking",
+              "notebook",
+              "notes",
+              "notes-app",
+              "personal-knowledge-base",
+              "personal-wiki",
+              "scriptable",
+              "self-hosted",
+              "self-hosting",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -42,12 +92,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your personal knowledge base with Trilium Notes",
+            "homepage": "https://triliumnotes.org",
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:40:29Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:36:17Z",
+            "open_issues": 709,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37625
+            "stars": 37626,
+            "topics": [
+              "electron",
+              "electron-app",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-management-graph",
+              "local-first",
+              "note-managment",
+              "note-taker",
+              "note-taking",
+              "notebook",
+              "notes",
+              "notes-app",
+              "personal-knowledge-base",
+              "personal-wiki",
+              "scriptable",
+              "self-hosted",
+              "self-hosting",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -58,12 +133,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your personal knowledge base with Trilium Notes",
+            "homepage": "https://triliumnotes.org",
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:40:29Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:36:17Z",
+            "open_issues": 709,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37625
+            "stars": 37626,
+            "topics": [
+              "electron",
+              "electron-app",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-management-graph",
+              "local-first",
+              "note-managment",
+              "note-taker",
+              "note-taking",
+              "notebook",
+              "notes",
+              "notes-app",
+              "personal-knowledge-base",
+              "personal-wiki",
+              "scriptable",
+              "self-hosted",
+              "self-hosting",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -74,12 +174,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your personal knowledge base with Trilium Notes",
+            "homepage": "https://triliumnotes.org",
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:40:29Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:36:17Z",
+            "open_issues": 709,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37625
+            "stars": 37626,
+            "topics": [
+              "electron",
+              "electron-app",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-management-graph",
+              "local-first",
+              "note-managment",
+              "note-taker",
+              "note-taking",
+              "notebook",
+              "notes",
+              "notes-app",
+              "personal-knowledge-base",
+              "personal-wiki",
+              "scriptable",
+              "self-hosted",
+              "self-hosting",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -90,12 +215,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Feature-rich Python client for interacting with the API and ETAPI of Trilium Notes. 用于与Trilium Notes的API和ETAPI交互的Python多功能客户端",
+            "homepage": null,
             "id": 457650117,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-05-26T10:21:30Z",
+            "open_issues": 4,
             "owner": "Nriver",
             "repo": "trilium-py",
-            "stars": 230
+            "stars": 230,
+            "topics": [
+              "etapi",
+              "markdown",
+              "migration-tool",
+              "note-taking",
+              "python",
+              "python3",
+              "trilium-notes"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -106,12 +244,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Feature-rich Python client for interacting with the API and ETAPI of Trilium Notes. 用于与Trilium Notes的API和ETAPI交互的Python多功能客户端",
+            "homepage": null,
             "id": 457650117,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-05-26T10:21:30Z",
+            "open_issues": 4,
             "owner": "Nriver",
             "repo": "trilium-py",
-            "stars": 230
+            "stars": 230,
+            "topics": [
+              "etapi",
+              "markdown",
+              "migration-tool",
+              "note-taking",
+              "python",
+              "python3",
+              "trilium-notes"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -122,12 +273,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Feature-rich Python client for interacting with the API and ETAPI of Trilium Notes. 用于与Trilium Notes的API和ETAPI交互的Python多功能客户端",
+            "homepage": null,
             "id": 457650117,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-05-26T10:21:30Z",
+            "open_issues": 4,
             "owner": "Nriver",
             "repo": "trilium-py",
-            "stars": 230
+            "stars": 230,
+            "topics": [
+              "etapi",
+              "markdown",
+              "migration-tool",
+              "note-taking",
+              "python",
+              "python3",
+              "trilium-notes"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -138,12 +302,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Feature-rich Python client for interacting with the API and ETAPI of Trilium Notes. 用于与Trilium Notes的API和ETAPI交互的Python多功能客户端",
+            "homepage": null,
             "id": 457650117,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-05-26T10:21:30Z",
+            "open_issues": 4,
             "owner": "Nriver",
             "repo": "trilium-py",
-            "stars": 230
+            "stars": 230,
+            "topics": [
+              "etapi",
+              "markdown",
+              "migration-tool",
+              "note-taking",
+              "python",
+              "python3",
+              "trilium-notes"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -154,12 +331,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Feature-rich Python client for interacting with the API and ETAPI of Trilium Notes. 用于与Trilium Notes的API和ETAPI交互的Python多功能客户端",
+            "homepage": null,
             "id": 457650117,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-05-26T10:21:30Z",
+            "open_issues": 4,
             "owner": "Nriver",
             "repo": "trilium-py",
-            "stars": 230
+            "stars": 230,
+            "topics": [
+              "etapi",
+              "markdown",
+              "migration-tool",
+              "note-taking",
+              "python",
+              "python3",
+              "trilium-notes"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -170,12 +360,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Feature-rich Python client for interacting with the API and ETAPI of Trilium Notes. 用于与Trilium Notes的API和ETAPI交互的Python多功能客户端",
+            "homepage": null,
             "id": 457650117,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-05-26T10:21:30Z",
+            "open_issues": 4,
             "owner": "Nriver",
             "repo": "trilium-py",
-            "stars": 230
+            "stars": 230,
+            "topics": [
+              "etapi",
+              "markdown",
+              "migration-tool",
+              "note-taking",
+              "python",
+              "python3",
+              "trilium-notes"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -186,12 +389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Zotero plugin to export notes to Trillium notes",
+            "homepage": null,
             "id": 590184088,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-04-16T06:35:13Z",
+            "open_issues": 0,
             "owner": "paulusm",
             "repo": "zotero-trilium",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -202,12 +410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1144506007,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-01-28T18:53:36Z",
+            "open_issues": 0,
             "owner": "ShellUnease",
             "repo": "cherrytree2trilium",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         }
@@ -224,12 +437,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "blue theme for trilium",
+            "homepage": null,
             "id": 488487656,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-07-21T10:49:20Z",
+            "open_issues": 1,
             "owner": "SiriusXT",
             "repo": "trilium-theme-blue",
-            "stars": 124
+            "stars": 124,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -240,12 +458,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A more beautiful and simple theme for trilium",
+            "homepage": null,
             "id": 336155933,
             "language": "CSS",
+            "license": "MPL-2.0",
             "last_commit": "2025-11-20T07:34:08Z",
+            "open_issues": 2,
             "owner": "JadeVane",
             "repo": "Allure",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "themes",
+              "trilium"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -256,12 +482,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A theme for Trilium Notes",
+            "homepage": null,
             "id": 208787446,
             "language": "CSS",
+            "license": null,
             "last_commit": "2024-04-20T21:41:54Z",
+            "open_issues": 1,
             "owner": "raphwriter",
             "repo": "trilium-theme-melon",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "css",
+              "note-taking-app",
+              "theme",
+              "trilium"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -272,12 +508,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 Soothing pastel theme for Trilium Notes",
+            "homepage": null,
             "id": 675768704,
             "language": "CSS",
+            "license": null,
             "last_commit": "2025-03-27T08:19:55Z",
+            "open_issues": 1,
             "owner": "catppuccin",
             "repo": "trilium-notes",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "catppuccin",
+              "hacktoberfest",
+              "theme",
+              "trilium-notes"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -288,12 +534,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My personal Trilium theme, named Lightpad.",
+            "homepage": null,
             "id": 779618822,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-03-30T18:22:58Z",
+            "open_issues": 3,
             "owner": "ohmstance",
             "repo": "trilium-lightpad-theme",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "css",
+              "light-theme",
+              "note-taking-app",
+              "theme",
+              "trilium"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -304,12 +561,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal, airy light theme for Trilium with an optional distraction-free mode.",
+            "homepage": null,
             "id": 453053659,
             "language": "CSS",
+            "license": "AGPL-3.0",
             "last_commit": "2022-02-23T07:46:41Z",
+            "open_issues": 2,
             "owner": "mondayrobot",
             "repo": "trilium-linen-theme",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -320,12 +582,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KDE Breeze theme for Trilium Notes ",
+            "homepage": null,
             "id": 445956714,
             "language": "Less",
+            "license": null,
             "last_commit": "2024-04-20T06:53:28Z",
+            "open_issues": 7,
             "owner": "eliandoran",
             "repo": "breeze-trilium",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -336,12 +603,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dark theme with minor purple highlights for Trilium Notes",
+            "homepage": null,
             "id": 581654675,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2023-03-14T05:13:46Z",
+            "open_issues": 1,
             "owner": "greengeek",
             "repo": "trilium-obsidian-theme",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "trilium",
+              "trilium-notebook",
+              "trilium-notes",
+              "trilium-theme"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -352,12 +629,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trilium theme based off of the default VS Code Dark Plus",
+            "homepage": null,
             "id": 585004883,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2023-03-14T05:11:14Z",
+            "open_issues": 2,
             "owner": "greengeek",
             "repo": "trilium-vscode-dark-theme",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "trilium",
+              "trilium-notebook",
+              "trilium-notes"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -368,12 +654,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dark theme for Trilium Notes and TriliumNext",
+            "homepage": null,
             "id": 439723402,
             "language": "CSS",
+            "license": null,
             "last_commit": "2026-01-19T18:24:19Z",
+            "open_issues": 1,
             "owner": "Lolabird",
             "repo": "stellar-dark-theme-trilium",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "css",
+              "dark",
+              "dark-mode",
+              "dark-theme",
+              "high-contrast",
+              "stellar",
+              "stellar-dark",
+              "trilium",
+              "trilium-next",
+              "trilium-notebook",
+              "trilium-notes",
+              "trilium-plugin",
+              "trilium-theme",
+              "trilium-widget",
+              "triliumnext"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -384,12 +691,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of light and dark colour themes for Trilium.",
+            "homepage": null,
             "id": 637980774,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-11-19T06:51:11Z",
+            "open_issues": 2,
             "owner": "DavidFuchs",
             "repo": "trilium-chameleon-theme",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -400,12 +712,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bing daily theme for Trilium",
+            "homepage": null,
             "id": 818060504,
             "language": "CSS",
+            "license": "AGPL-3.0",
             "last_commit": "2024-07-05T05:47:48Z",
+            "open_issues": 2,
             "owner": "Nriver",
             "repo": "bing-daily-theme",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "bing",
+              "note",
+              "theme",
+              "trilium",
+              "wallpaper"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -416,12 +739,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NieR-Automata style theme for Trilium Notes",
+            "homepage": null,
             "id": 372805442,
             "language": "CSS",
+            "license": "AGPL-3.0",
             "last_commit": "2025-01-21T01:23:17Z",
+            "open_issues": 0,
             "owner": "Nriver",
             "repo": "NieR-Automata-Trilium-Theme",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "theme",
+              "trilium",
+              "trilium-notes"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -437,24 +769,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Solarized theme for the note-taking app Trilium Next.",
+                "homepage": null,
                 "id": 1329612769,
                 "language": "CSS",
-                "last_commit": "2026-08-12T06:23:47Z",
+                "license": null,
+                "last_commit": "2026-08-29T03:32:47Z",
+                "open_issues": 0,
                 "owner": "calico-cat-3333",
                 "repo": "trilium-next-solarized-theme",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "A solarized theme for the notetaking app Trilium.",
+            "homepage": null,
             "id": 347777028,
             "language": "CSS",
+            "license": null,
             "last_commit": "2021-11-01T16:16:30Z",
+            "open_issues": 0,
             "owner": "WKSu",
             "repo": "trilium-solarized-theme",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -465,12 +807,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dark theme for Trilium Notes and TriliumNext for EverForest and Ant Dark desktop themes.",
+            "homepage": null,
             "id": 846312451,
             "language": "CSS",
+            "license": null,
             "last_commit": "2026-01-19T18:24:54Z",
+            "open_issues": 0,
             "owner": "Lolabird",
             "repo": "everforest-ant-dark-trilium-theme",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "ant",
+              "ant-dark",
+              "ant-design",
+              "antdark",
+              "antdesign",
+              "css",
+              "dark",
+              "dark-mode",
+              "dark-theme",
+              "everforest",
+              "everforest-dark",
+              "high-contrast",
+              "trilium",
+              "trilium-next",
+              "trilium-notebook",
+              "trilium-notes",
+              "trilium-plugin",
+              "trilium-theme",
+              "trilium-widget",
+              "triliumnext"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -481,12 +849,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Trilium Theme (Mist Moon)",
+            "homepage": null,
             "id": 679173783,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2023-08-31T04:34:37Z",
+            "open_issues": 1,
             "owner": "Ivy-End",
             "repo": "Mist-Moon",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -497,12 +870,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 857833918,
             "language": "CSS",
+            "license": null,
             "last_commit": "2026-08-11T12:00:14Z",
+            "open_issues": 0,
             "owner": "perfectra1n",
             "repo": "custom-trilium-themes",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -513,12 +891,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Eva-Dark-Theme for Trilium",
+            "homepage": null,
             "id": 1077684548,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2025-10-21T14:40:48Z",
+            "open_issues": 0,
             "owner": "cocolight",
             "repo": "trilium-theme-eva",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -529,12 +912,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A theme for Trilium Notes",
+            "homepage": null,
             "id": 860393164,
             "language": "CSS",
+            "license": null,
             "last_commit": "2025-07-18T09:33:15Z",
+            "open_issues": 0,
             "owner": "yu-jingrui",
             "repo": "trilium-theme-lemon-tree",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -545,12 +933,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pure black minimal theme for TriliumNext",
+            "homepage": null,
             "id": 1215361958,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-04-19T20:28:20Z",
+            "open_issues": 0,
             "owner": "DikshantJangra",
             "repo": "void-trilium-theme",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "css",
+              "dark-theme",
+              "trilium",
+              "trilium-dark-theme",
+              "trilium-notes",
+              "trilium-theme"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -561,12 +961,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your personal knowledge base with Trilium Notes",
+            "homepage": "https://triliumnotes.org",
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:40:29Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:36:17Z",
+            "open_issues": 709,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37625
+            "stars": 37626,
+            "topics": [
+              "electron",
+              "electron-app",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-management-graph",
+              "local-first",
+              "note-managment",
+              "note-taker",
+              "note-taking",
+              "notebook",
+              "notes",
+              "notes-app",
+              "personal-knowledge-base",
+              "personal-wiki",
+              "scriptable",
+              "self-hosted",
+              "self-hosting",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -577,12 +1002,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A card-style Trilium blog theme (based on Trilium sharing feature)",
+            "homepage": "https://www.ankia.top/",
             "id": 732596713,
             "language": "EJS",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-14T11:09:47Z",
+            "open_issues": 14,
             "owner": "dvai",
             "repo": "Ankia-Theme",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -593,12 +1023,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sharing theme for Trilium Note. Can also be used for paper page.",
+            "homepage": null,
             "id": 586920765,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2023-04-25T10:06:57Z",
+            "open_issues": 3,
             "owner": "FrostMiKu",
             "repo": "Share.CSS",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -609,12 +1044,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 Trilium 笔记自动生成博客，白色简约博文主题，具有菜单导航及页面大纲、评论、留言等基础功能，可隐藏公告、推荐阅读、博主信息、分类、标签、最新评论。",
+            "homepage": "https://www.shmaur.com/",
             "id": 843841713,
             "language": "EJS",
+            "license": null,
             "last_commit": "2025-09-19T04:58:57Z",
+            "open_issues": 1,
             "owner": "Shmaur",
             "repo": "WhiteMinimalist-Theme",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "blog",
+              "trilium",
+              "trilium-notes",
+              "trilium-theme"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -625,12 +1070,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A card-style Trilium blog theme (based on Trilium sharing feature)；TriliumNotes增强拓展——博客类型主题，主题名为：Akari's -Theme 。  本博客主题：基于© shmaur ｜ © 东东  分享的trilium博客主题  Ankia、WhiteMinimalist 进行调试修改。",
+            "homepage": "https://www.aiphm.cn/share/index.html",
             "id": 1097568509,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-11-21T09:14:19Z",
+            "open_issues": 0,
             "owner": "march-7th-mini",
             "repo": "Trilium-X-Akari",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -641,12 +1091,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 TriliumNext 的博客主题",
+            "homepage": "https://brucevon.space",
             "id": 1238259200,
             "language": "EJS",
+            "license": null,
             "last_commit": "2026-08-28T13:23:23Z",
+            "open_issues": 0,
             "owner": "brucevon",
             "repo": "zfy",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "blog",
+              "trilium",
+              "trilium-next",
+              "trilium-theme",
+              "zfy"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -657,12 +1118,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A community-based website for Trilium Notes users!",
+            "homepage": "https://trilium.rocks/",
             "id": 872600286,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-03T16:10:27Z",
+            "open_issues": 0,
             "owner": "perfectra1n",
             "repo": "trilium.rocks",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -673,12 +1139,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 854558918,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2024-09-09T12:37:19Z",
+            "open_issues": 0,
             "owner": "uweizh",
             "repo": "trilium-sharecss",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -689,12 +1160,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A share theme for trilium",
+            "homepage": "https://note.seaflowing.cn/share/home",
             "id": 1318183371,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-08-11T14:00:11Z",
+            "open_issues": 0,
             "owner": "doonly1",
             "repo": "Wenxin-theme",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "notes",
+              "theme",
+              "trilium"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         }
@@ -711,12 +1191,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your personal knowledge base with Trilium Notes",
+            "homepage": "https://triliumnotes.org",
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:40:29Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:36:17Z",
+            "open_issues": 709,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37625
+            "stars": 37626,
+            "topics": [
+              "electron",
+              "electron-app",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-management-graph",
+              "local-first",
+              "note-managment",
+              "note-taker",
+              "note-taking",
+              "notebook",
+              "notes",
+              "notes-app",
+              "personal-knowledge-base",
+              "personal-wiki",
+              "scriptable",
+              "self-hosted",
+              "self-hosting",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -727,12 +1232,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your personal knowledge base with Trilium Notes",
+            "homepage": "https://triliumnotes.org",
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:40:29Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:36:17Z",
+            "open_issues": 709,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37625
+            "stars": 37626,
+            "topics": [
+              "electron",
+              "electron-app",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-management-graph",
+              "local-first",
+              "note-managment",
+              "note-taker",
+              "note-taking",
+              "notebook",
+              "notes",
+              "notes-app",
+              "personal-knowledge-base",
+              "personal-wiki",
+              "scriptable",
+              "self-hosted",
+              "self-hosting",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -743,12 +1273,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your personal knowledge base with Trilium Notes",
+            "homepage": "https://triliumnotes.org",
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:40:29Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:36:17Z",
+            "open_issues": 709,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37625
+            "stars": 37626,
+            "topics": [
+              "electron",
+              "electron-app",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-management-graph",
+              "local-first",
+              "note-managment",
+              "note-taker",
+              "note-taking",
+              "notebook",
+              "notes",
+              "notes-app",
+              "personal-knowledge-base",
+              "personal-wiki",
+              "scriptable",
+              "self-hosted",
+              "self-hosting",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -759,12 +1314,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your personal knowledge base with Trilium Notes",
+            "homepage": "https://triliumnotes.org",
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:40:29Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:36:17Z",
+            "open_issues": 709,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37625
+            "stars": 37626,
+            "topics": [
+              "electron",
+              "electron-app",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-management-graph",
+              "local-first",
+              "note-managment",
+              "note-taker",
+              "note-taking",
+              "notebook",
+              "notes",
+              "notes-app",
+              "personal-knowledge-base",
+              "personal-wiki",
+              "scriptable",
+              "self-hosted",
+              "self-hosting",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -775,12 +1355,37 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Build your personal knowledge base with TriliumNext Notes",
+            "homepage": "https://triliumnext.github.io/Docs/",
             "id": 757501602,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2025-06-24T20:24:23Z",
+            "open_issues": 1,
             "owner": "TriliumNext",
             "repo": "Notes",
-            "stars": 2927
+            "stars": 2927,
+            "topics": [
+              "documentation-tool",
+              "electron",
+              "knowledge-graph",
+              "knowledgebase",
+              "local-first",
+              "markdown",
+              "note-managment",
+              "note-taking-app",
+              "notebook",
+              "notes",
+              "personal-wiki",
+              "scriptable",
+              "self-hosted",
+              "self-hosting",
+              "trilium",
+              "trilium-next",
+              "triliumnext",
+              "wiki",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -791,12 +1396,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of interesting Trilium Notes extensions. Including themes, widgets, scripts, API extensions, etc. Trilium插件合集",
+            "homepage": null,
             "id": 605950323,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-08-11T14:13:04Z",
+            "open_issues": 4,
             "owner": "Nriver",
             "repo": "awesome-trilium",
-            "stars": 931
+            "stars": 931,
+            "topics": [
+              "api",
+              "awesome",
+              "awesome-list",
+              "etapi",
+              "extension",
+              "note-taking",
+              "plugin",
+              "scripts",
+              "theme",
+              "trilium-notes",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -807,12 +1429,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of interesting Trilium Notes extensions. Including themes, widgets, scripts, API extensions, etc. Trilium插件合集",
+            "homepage": null,
             "id": 605950323,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-08-11T14:13:04Z",
+            "open_issues": 4,
             "owner": "Nriver",
             "repo": "awesome-trilium",
-            "stars": 931
+            "stars": 931,
+            "topics": [
+              "api",
+              "awesome",
+              "awesome-list",
+              "etapi",
+              "extension",
+              "note-taking",
+              "plugin",
+              "scripts",
+              "theme",
+              "trilium-notes",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -823,12 +1462,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experience Enhancement Kit for Trilium Notes. 体验增强工具包",
+            "homepage": null,
             "id": 824388563,
             "language": "CSS",
+            "license": "AGPL-3.0",
             "last_commit": "2024-11-08T05:54:09Z",
+            "open_issues": 3,
             "owner": "Nriver",
             "repo": "trilium-enhancement",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "enhancement",
+              "plugin",
+              "trilium",
+              "trilium-notes"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -839,12 +1488,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 891916166,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-05-22T07:33:51Z",
+            "open_issues": 0,
             "owner": "SiriusXT",
             "repo": "Trilium-TextNoteEnhancement",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -855,12 +1509,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "零代码基础的小三月，下载体验了大佬们开发的针对Trilium体验增强的多数插件后，最终合成的懒人实用插件。  部分插件在原版的基础上略微修改了一些配色。  另外附加自己基于Blue theme及云遥修改版改色的VOCALOID歌姬应援色主题，希望您能喜欢(❁´◡`❁)",
+            "homepage": null,
             "id": 1035432776,
             "language": null,
+            "license": null,
             "last_commit": "2025-11-16T13:34:42Z",
+            "open_issues": 0,
             "owner": "march-7th-mini",
             "repo": "trilium-enhancement-Lazy-Pack",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         }
@@ -877,12 +1536,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your personal knowledge base with Trilium Notes",
+            "homepage": "https://triliumnotes.org",
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:40:29Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:36:17Z",
+            "open_issues": 709,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37625
+            "stars": 37626,
+            "topics": [
+              "electron",
+              "electron-app",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-management-graph",
+              "local-first",
+              "note-managment",
+              "note-taker",
+              "note-taking",
+              "notebook",
+              "notes",
+              "notes-app",
+              "personal-knowledge-base",
+              "personal-wiki",
+              "scriptable",
+              "self-hosted",
+              "self-hosting",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -893,12 +1577,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your personal knowledge base with Trilium Notes",
+            "homepage": "https://triliumnotes.org",
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:40:29Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:36:17Z",
+            "open_issues": 709,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37625
+            "stars": 37626,
+            "topics": [
+              "electron",
+              "electron-app",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-management-graph",
+              "local-first",
+              "note-managment",
+              "note-taker",
+              "note-taking",
+              "notebook",
+              "notes",
+              "notes-app",
+              "personal-knowledge-base",
+              "personal-wiki",
+              "scriptable",
+              "self-hosted",
+              "self-hosting",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -909,12 +1618,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Syntax highlight Trilium widget for editable note codeblocks using highlight.js",
+            "homepage": null,
             "id": 486571551,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2022-09-11T07:37:12Z",
+            "open_issues": 8,
             "owner": "antoniotejada",
             "repo": "Trilium-SyntaxHighlightWidget",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "ckeditor-plugin",
+              "ckeditor5",
+              "ckeditor5-plugin",
+              "highlightjs",
+              "trilium",
+              "trilium-notebook",
+              "trilium-plugin"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -925,12 +1647,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A widget to show note breadcrumbs at the bottom of the page.",
+            "homepage": null,
             "id": 679340509,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-26T22:46:36Z",
+            "open_issues": 2,
             "owner": "zerebos",
             "repo": "Trilium-Breadcrumbs",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "trilium",
+              "trilium-widget"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -941,12 +1671,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "在trilium创建simple-mind-map【思绪思维导图】",
+            "homepage": null,
             "id": 801981073,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-04-19T06:21:41Z",
+            "open_issues": 7,
             "owner": "waterovo",
             "repo": "trilium-simple-mind-map",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -962,24 +1697,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "在trilium使用脚本实现一个简单的音乐播放器 支持播放暂停、调节音量、调整播放顺序、隐藏与显示",
+                "homepage": null,
                 "id": 1105190946,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-11-27T09:46:39Z",
+                "open_issues": 0,
                 "owner": "Userwei0418",
                 "repo": "trilium-MusicPlayer",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Zoom image on click.",
+            "homepage": null,
             "id": 914145338,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2025-03-26T06:15:32Z",
+            "open_issues": 0,
             "owner": "Nriver",
             "repo": "image-zoom-widget",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "trilium",
+              "trilium-plugin",
+              "trilium-widget"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -990,12 +1739,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Double click to copy code block in Trilium Notes",
+            "homepage": null,
             "id": 798112741,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2025-03-28T01:48:09Z",
+            "open_issues": 1,
             "owner": "Nriver",
             "repo": "copy-code-block-widget",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "trilium",
+              "trilium-plugin",
+              "trilium-widget"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1006,12 +1764,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn your Trilium into a lightweight OS, and your scripts into floating Apps. 将你的 Trilium 变成一个轻量级操作系统，让脚本像“小程序”一样运行。",
+            "homepage": null,
             "id": 1123636426,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-27T12:16:59Z",
+            "open_issues": 1,
             "owner": "Userwei0418",
             "repo": "trilium-Magic-Toolbox",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1022,12 +1785,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mark font red  of the position being browsed in the Table of contents.",
+            "homepage": null,
             "id": 613904437,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-12-26T01:52:50Z",
+            "open_issues": 0,
             "owner": "SiriusXT",
             "repo": "trilium-show-position-in-toc",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1043,24 +1811,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pomodoro timer widget for Trilium Notes. Trilium 的番茄钟插件在原作者基础上进行了改进（1、允许控制显示/隐藏 2、美化ui）",
+                "homepage": null,
                 "id": 1105148826,
                 "language": null,
+                "license": "AGPL-3.0",
                 "last_commit": "2025-11-27T08:27:41Z",
+                "open_issues": 0,
                 "owner": "Userwei0418",
                 "repo": "tomato-timer-widget",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Pomodoro timer widget for Trilium Notes. Trilium 的番茄钟插件",
+            "homepage": null,
             "id": 709585756,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2025-08-27T03:53:57Z",
+            "open_issues": 4,
             "owner": "Nriver",
             "repo": "tomato-timer-widget",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "trilium",
+              "trilium-plugin",
+              "trilium-widget"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1071,12 +1853,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trilium quickly jumps to the last browsing position",
+            "homepage": null,
             "id": 617244139,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-11-12T08:38:26Z",
+            "open_issues": 1,
             "owner": "SiriusXT",
             "repo": "trilium-back-to-history",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1087,12 +1874,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "When the tree on the left panel has a lot of long titles, it is not convenient to view. This script can automatically increase the width of the left panel when the mouse moves to the left.",
+            "homepage": null,
             "id": 602837877,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-05-10T02:12:47Z",
+            "open_issues": 2,
             "owner": "SiriusXT",
             "repo": "trilium-left-panel-auto-zoom",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1103,12 +1895,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trilium widget for changing themes ",
+            "homepage": null,
             "id": 714417467,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2024-02-22T00:21:17Z",
+            "open_issues": 2,
             "owner": "madodig",
             "repo": "trilium-widget-theme-switch",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1119,12 +1916,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "scripts and utilities for Trilium",
+            "homepage": null,
             "id": 686278115,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-09-06T09:15:51Z",
+            "open_issues": 3,
             "owner": "justyns",
             "repo": "trilium-scripts",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1135,12 +1937,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "trilium-auto-hide-info-bar",
+            "homepage": null,
             "id": 621119649,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-11-25T09:22:24Z",
+            "open_issues": 2,
             "owner": "SiriusXT",
             "repo": "trilium-auto-hide-info-bar",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1151,12 +1958,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "在trilium创建jsmind思维导图",
+            "homepage": null,
             "id": 789342418,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-09T07:37:51Z",
+            "open_issues": 1,
             "owner": "waterovo",
             "repo": "trilium-jsmind",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1167,12 +1979,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trilium_AI知识卡片",
+            "homepage": null,
             "id": 1124170438,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-28T15:05:23Z",
+            "open_issues": 0,
             "owner": "Userwei0418",
             "repo": "trilium_Knowledge-Gallery-Viewer",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1183,12 +2000,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "swap \"enter\" and \"shift + enter\" for Trilium Notes. 交换Trilium Notes 的 \"enter\" 和 \"shift + enter\".",
+            "homepage": null,
             "id": 877151066,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2025-05-19T02:59:40Z",
+            "open_issues": 0,
             "owner": "Nriver",
             "repo": "swap-enter-widget",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "trilium",
+              "trilium-notes",
+              "trilium-plugin"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1199,12 +2025,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "It has been integrated into the software, although the operation cannot be remembered. This repository is no longer needed",
+            "homepage": null,
             "id": 748462850,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-01-26T03:26:43Z",
+            "open_issues": 0,
             "owner": "SiriusXT",
             "repo": "trilium-remember-right-pane",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1215,12 +2046,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个用于 Trilium Notes 的全功能语音转写与智能整理小组件。  它集成在侧边栏，支持录音或上传音频文件，利用 AI 自动将语音转写为文字，并自动整理成包含标题、修正文本、深度大纲的结构化笔记。  ✨ 核心亮点：本插件完全基于 硅基流动 (SiliconFlow) 提供的免费模型构建，无需支付昂贵的 API 费用即可享受顶级的语音识别和文本分析服务。",
+            "homepage": null,
             "id": 1123399177,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-26T20:02:21Z",
+            "open_issues": 0,
             "owner": "Userwei0418",
             "repo": "trilium_AI_Voice_Note-",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1231,12 +2067,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Countdown Days widget for trilium",
+            "homepage": null,
             "id": 780328597,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2024-04-15T08:19:43Z",
+            "open_issues": 0,
             "owner": "Nriver",
             "repo": "countdown-days-widget",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1247,12 +2088,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Table of contents Trilium widget for editable and readonly text notes located in the right-panel.",
+            "homepage": null,
             "id": 510942981,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-08-20T22:50:19Z",
+            "open_issues": 0,
             "owner": "Lolabird",
             "repo": "Trilium-TocWidget",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "trilium",
+              "trilium-notebook",
+              "trilium-notes",
+              "trilium-plugin",
+              "trilium-widget"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1263,12 +2115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "trilium无法在笔记内浏览视频 只能作为附件的形式存在 对于外部视频更是无法方便浏览 这个脚本可以用一个按钮将链接视频解析 在只读模式下可通过播放器进行快捷浏览",
+            "homepage": null,
             "id": 1119353724,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-19T06:32:15Z",
+            "open_issues": 1,
             "owner": "Userwei0418",
             "repo": "trilium-fast-player",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1279,12 +2136,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn any Trilium note into a fullscreen presentation — one click, no export, no conversion.",
+            "homepage": null,
             "id": 1194713319,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-23T14:09:58Z",
+            "open_issues": 5,
             "owner": "Stefan-Schmidbauer",
             "repo": "trilium-presenter-plugin",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "ai-authoring",
+              "javascript",
+              "markdown",
+              "notecast",
+              "pandoc",
+              "plugin",
+              "presentation",
+              "presenter",
+              "slides",
+              "speaker-notes",
+              "trilium",
+              "trilium-next",
+              "trilium-notes",
+              "trilium-plugin"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1295,12 +2172,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "note title color picker widget for Trilium",
+            "homepage": null,
             "id": 1242166744,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-05-18T08:53:58Z",
+            "open_issues": 0,
             "owner": "Nriver",
             "repo": "title-color-picker",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1311,12 +2193,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A d20 system dice roller widget for your trilium notes!",
+            "homepage": null,
             "id": 921879126,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-05-28T15:35:37Z",
+            "open_issues": 0,
             "owner": "AzzyB",
             "repo": "trilium-dnd-dice",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1327,12 +2214,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Correct Trilium text notes with Antidote",
+            "homepage": null,
             "id": 1174791510,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-08T22:08:49Z",
+            "open_issues": 0,
             "owner": "yiranlus",
             "repo": "trilium-antidote",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "druide-antidote",
+              "javascript",
+              "preact",
+              "trilium-notes",
+              "widgets"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         }
@@ -1349,12 +2247,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your personal knowledge base with Trilium Notes",
+            "homepage": "https://triliumnotes.org",
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:40:29Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:36:17Z",
+            "open_issues": 709,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37625
+            "stars": 37626,
+            "topics": [
+              "electron",
+              "electron-app",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-management-graph",
+              "local-first",
+              "note-managment",
+              "note-taker",
+              "note-taking",
+              "notebook",
+              "notes",
+              "notes-app",
+              "personal-knowledge-base",
+              "personal-wiki",
+              "scriptable",
+              "self-hosted",
+              "self-hosting",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1365,12 +2288,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your personal knowledge base with Trilium Notes",
+            "homepage": "https://triliumnotes.org",
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:40:29Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:36:17Z",
+            "open_issues": 709,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37625
+            "stars": 37626,
+            "topics": [
+              "electron",
+              "electron-app",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-management-graph",
+              "local-first",
+              "note-managment",
+              "note-taker",
+              "note-taking",
+              "notebook",
+              "notes",
+              "notes-app",
+              "personal-knowledge-base",
+              "personal-wiki",
+              "scriptable",
+              "self-hosted",
+              "self-hosting",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1381,12 +2329,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your personal knowledge base with Trilium Notes",
+            "homepage": "https://triliumnotes.org",
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:40:29Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:36:17Z",
+            "open_issues": 709,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37625
+            "stars": 37626,
+            "topics": [
+              "electron",
+              "electron-app",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-management-graph",
+              "local-first",
+              "note-managment",
+              "note-taker",
+              "note-taking",
+              "notebook",
+              "notes",
+              "notes-app",
+              "personal-knowledge-base",
+              "personal-wiki",
+              "scriptable",
+              "self-hosted",
+              "self-hosting",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1397,12 +2370,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your personal knowledge base with Trilium Notes",
+            "homepage": "https://triliumnotes.org",
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:40:29Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:36:17Z",
+            "open_issues": 709,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37625
+            "stars": 37626,
+            "topics": [
+              "electron",
+              "electron-app",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-management-graph",
+              "local-first",
+              "note-managment",
+              "note-taker",
+              "note-taking",
+              "notebook",
+              "notes",
+              "notes-app",
+              "personal-knowledge-base",
+              "personal-wiki",
+              "scriptable",
+              "self-hosted",
+              "self-hosting",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1413,12 +2411,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Translation for Trilium Notes. Trilium Notes 中文适配, 体验优化",
+            "homepage": null,
             "id": 374257967,
             "language": "HTML",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-08T03:29:58Z",
+            "open_issues": 4,
             "owner": "Nriver",
             "repo": "trilium-translation",
-            "stars": 2862
+            "stars": 2862,
+            "topics": [
+              "aur",
+              "aur-packages",
+              "chinese",
+              "docker",
+              "docker-compose",
+              "dockerfile",
+              "enhancement",
+              "i18n",
+              "note-taking",
+              "scoop",
+              "self-hosted",
+              "translation",
+              "trilium-chinese-translation",
+              "trilium-notes",
+              "trilium-translation"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1429,12 +2448,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chat plugin highly integrated with Trilium",
+            "homepage": "https://soulsands.github.io/trilium-chat/",
             "id": 649507029,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2024-08-30T16:52:53Z",
+            "open_issues": 8,
             "owner": "soulsands",
             "repo": "trilium-chat",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "chat",
+              "chatgpt",
+              "plugin",
+              "sidebar",
+              "trilium"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1445,12 +2475,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Useful Scripts for Trilium",
+            "homepage": null,
             "id": 634356415,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T16:07:21Z",
+            "license": null,
+            "last_commit": "2026-08-29T02:44:59Z",
+            "open_issues": 0,
             "owner": "BeatLink",
             "repo": "trilium-scripts",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "trilium",
+              "trilium-plugin"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1466,24 +2504,53 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Translation for Trilium Notes. Trilium Notes 中文适配, 体验优化",
+                "homepage": null,
                 "id": 374257967,
                 "language": "HTML",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-08T03:29:58Z",
+                "open_issues": 4,
                 "owner": "Nriver",
                 "repo": "trilium-translation",
-                "stars": 2862
+                "stars": 2862,
+                "topics": [
+                  "aur",
+                  "aur-packages",
+                  "chinese",
+                  "docker",
+                  "docker-compose",
+                  "dockerfile",
+                  "enhancement",
+                  "i18n",
+                  "note-taking",
+                  "scoop",
+                  "self-hosted",
+                  "translation",
+                  "trilium-chinese-translation",
+                  "trilium-notes",
+                  "trilium-translation"
+                ]
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Useful Scripts for Trilium",
+            "homepage": null,
             "id": 634356415,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T16:07:21Z",
+            "license": null,
+            "last_commit": "2026-08-29T02:44:59Z",
+            "open_issues": 0,
             "owner": "BeatLink",
             "repo": "trilium-scripts",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "trilium",
+              "trilium-plugin"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1494,12 +2561,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Useful Scripts for Trilium",
+            "homepage": null,
             "id": 634356415,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T16:07:21Z",
+            "license": null,
+            "last_commit": "2026-08-29T02:44:59Z",
+            "open_issues": 0,
             "owner": "BeatLink",
             "repo": "trilium-scripts",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "trilium",
+              "trilium-plugin"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1510,12 +2585,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(Trilium Notes) Make subnotes and include them faster",
+            "homepage": null,
             "id": 609892332,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-04-04T20:14:34Z",
+            "open_issues": 1,
             "owner": "salmund",
             "repo": "trilium_better_include",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "trilium",
+              "trilium-notes",
+              "trilium-plugin"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1526,12 +2610,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browse daily moods in the calendar.",
+            "homepage": null,
             "id": 742359403,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-12T10:34:42Z",
+            "open_issues": 0,
             "owner": "dvai",
             "repo": "Trilium-DailyMood",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1542,12 +2631,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Weekly planner script for use in Trilium",
+            "homepage": null,
             "id": 1238648148,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T05:44:05Z",
+            "open_issues": 0,
             "owner": "ecodiv",
             "repo": "Trilium_scripts",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1558,12 +2652,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Drop-in AI chat widget for Trilium Notes share pages — turns any shared note tree into an AI-assisted docs site. OpenAI-compatible, tool-using, no build step.",
+            "homepage": null,
             "id": 1229154465,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-04T18:58:24Z",
+            "open_issues": 0,
             "owner": "mrbeandev",
             "repo": "trilium-ai-agent",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1574,12 +2673,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1296431598,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-11T01:54:07Z",
+            "open_issues": 0,
             "owner": "npgwgmggta",
             "repo": "trilium-next-image-lightbox",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1590,12 +2694,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Scripts and etc I have written to enhance my trilium-notes usage",
+            "homepage": null,
             "id": 662702631,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-12T16:53:03Z",
+            "open_issues": 0,
             "owner": "jwhonce",
             "repo": "trilium-addons",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         }
@@ -1612,12 +2721,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trilium integrated drawio plug-in",
+            "homepage": null,
             "id": 634444356,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-07-25T04:09:05Z",
+            "open_issues": 5,
             "owner": "SiriusXT",
             "repo": "trilium-drawio",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1628,12 +2742,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extension for Trilium Notes that implements different ways of viewing collections of notes.",
+            "homepage": null,
             "id": 340748695,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-03-06T23:20:04Z",
+            "open_issues": 9,
             "owner": "mabeyj",
             "repo": "trilium-collection-views",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1644,12 +2763,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Kanban integration for Trilium Notes",
+            "homepage": null,
             "id": 725267223,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-18T07:58:04Z",
+            "open_issues": 9,
             "owner": "CyrilLeblanc",
             "repo": "trilium-kanban",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1660,12 +2784,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An addon for Trilium to easily import SingleFile archives.",
+            "homepage": null,
             "id": 693446609,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-07T17:11:54Z",
+            "open_issues": 3,
             "owner": "zerebos",
             "repo": "Trilium-SingleFile",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1676,12 +2805,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A widget for trilium notes for live previewing markdown files with support for anchors, images, and sync scroll.",
+            "homepage": null,
             "id": 679034604,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-04T21:55:39Z",
+            "open_issues": 4,
             "owner": "zerebos",
             "repo": "Trilium-MarkdownPreview",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "markdown",
+              "trilium",
+              "trilium-widget"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1692,12 +2830,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Display a note modification heatmap in your Trilium note, just like the Github contributions heatmap!",
+            "homepage": null,
             "id": 684635820,
             "language": "CSS",
+            "license": null,
             "last_commit": "2024-03-18T11:31:39Z",
+            "open_issues": 3,
             "owner": "dvai",
             "repo": "Trilium-Heatmap",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1708,12 +2851,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A widget for Trilium Notes to preview LaTeX notes.",
+            "homepage": null,
             "id": 694851777,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-21T20:37:21Z",
+            "open_issues": 3,
             "owner": "zerebos",
             "repo": "Trilium-LaTeXPreview",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1724,12 +2872,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON Note editor for Trilium",
+            "homepage": null,
             "id": 697004319,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-07T20:34:23Z",
+            "open_issues": 3,
             "owner": "sottey",
             "repo": "tje",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1740,12 +2893,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "自动收集和整理的代办列表，带有甘特图功能",
+            "homepage": null,
             "id": 1248013681,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-27T14:06:39Z",
+            "open_issues": 1,
             "owner": "youli42",
             "repo": "Trilium-TodoList",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "trilium",
+              "trilium-notes",
+              "trilium-plugin",
+              "trilium-widget"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1756,12 +2919,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "在 Trilium 中更便利的基于标签搜索",
+            "homepage": null,
             "id": 1228741967,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-04T10:35:22Z",
+            "open_issues": 1,
             "owner": "youli42",
             "repo": "Trilium-TagSearch",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "trilium",
+              "trilium-notes",
+              "trilium-plugin",
+              "trilium-widget"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -1772,12 +2945,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "集中显示收藏的笔记，以便可视化收藏页面Display collected notes centrally to visualize the favorites page",
+            "homepage": null,
             "id": 1245213771,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-05-22T03:31:55Z",
+            "open_issues": 0,
             "owner": "youli42",
             "repo": "Trilium-Favourite",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "trilium",
+              "trilium-notes",
+              "trilium-plugin",
+              "trilium-widget"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         }
@@ -1796,12 +2979,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build your personal knowledge base with Trilium Notes",
+                "homepage": "https://triliumnotes.org",
                 "id": 92111509,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T20:40:29Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T00:36:17Z",
+                "open_issues": 709,
                 "owner": "TriliumNext",
                 "repo": "Trilium",
-                "stars": 37625
+                "stars": 37626,
+                "topics": [
+                  "electron",
+                  "electron-app",
+                  "knowledge-base",
+                  "knowledge-graph",
+                  "knowledge-management",
+                  "knowledge-management-graph",
+                  "local-first",
+                  "note-managment",
+                  "note-taker",
+                  "note-taking",
+                  "notebook",
+                  "notes",
+                  "notes-app",
+                  "personal-knowledge-base",
+                  "personal-wiki",
+                  "scriptable",
+                  "self-hosted",
+                  "self-hosting",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             },
@@ -1812,12 +3020,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android client for Trilium Notes",
+                "homepage": null,
                 "id": 741034482,
                 "language": "Kotlin",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-27T17:33:57Z",
+                "open_issues": 48,
                 "owner": "FliegendeWurst",
                 "repo": "TriliumDroid",
-                "stars": 387
+                "stars": 387,
+                "topics": [
+                  "android-app",
+                  "note-taking-app",
+                  "trilium"
+                ]
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             },
@@ -1828,12 +3045,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trilium in my pocket :) Android app for Trilium. Trilium安卓客户端",
+                "homepage": null,
                 "id": 1130084983,
                 "language": "Dart",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T03:03:06Z",
+                "open_issues": 9,
                 "owner": "Nriver",
                 "repo": "pocket-trilium",
-                "stars": 123
+                "stars": 123,
+                "topics": [
+                  "andriod-app",
+                  "android",
+                  "android-application",
+                  "apk",
+                  "dart",
+                  "kotlin",
+                  "mobile",
+                  "note-taking",
+                  "note-taking-app",
+                  "trilium",
+                  "trilium-notes"
+                ]
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             },
@@ -1844,12 +3078,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple android application for sending images and notes to Trilium",
+                "homepage": null,
                 "id": 121076583,
                 "language": "Kotlin",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-21T11:35:21Z",
+                "open_issues": 16,
                 "owner": "zadam",
                 "repo": "trilium-sender",
-                "stars": 99
+                "stars": 99,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             },
@@ -1860,12 +3099,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trilium in termux package",
+                "homepage": null,
                 "id": 1054861831,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-14T10:19:27Z",
+                "open_issues": 0,
                 "owner": "jasongwq",
                 "repo": "Trilium-termux",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             }
@@ -1883,12 +3127,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tutorial on sending messages to Trilium via an apple shortcut.",
+                "homepage": null,
                 "id": 628607413,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-06-30T14:54:56Z",
+                "open_issues": 5,
                 "owner": "soulsands",
                 "repo": "trilium-ios-shortcut",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             }
@@ -1912,12 +3161,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Feature-rich Python client for interacting with the API and ETAPI of Trilium Notes. 用于与Trilium Notes的API和ETAPI交互的Python多功能客户端",
+                "homepage": null,
                 "id": 457650117,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-05-26T10:21:30Z",
+                "open_issues": 4,
                 "owner": "Nriver",
                 "repo": "trilium-py",
-                "stars": 230
+                "stars": 230,
+                "topics": [
+                  "etapi",
+                  "markdown",
+                  "migration-tool",
+                  "note-taking",
+                  "python",
+                  "python3",
+                  "trilium-notes"
+                ]
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             },
@@ -1928,12 +3190,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python SDK (wrapper, whatever you want to call it) for interacting with Trilium's ETAPI.",
+                "homepage": null,
                 "id": 617781159,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-18T06:16:01Z",
+                "open_issues": 11,
                 "owner": "perfectra1n",
                 "repo": "pytrilium",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "api-client",
+                  "api-client-python",
+                  "client",
+                  "interact",
+                  "python",
+                  "python-sdk",
+                  "sdk",
+                  "trilium",
+                  "trilium-notes",
+                  "wrapper",
+                  "wrapper-library"
+                ]
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             },
@@ -1944,12 +3223,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python SDK and CLI toolkit for Trilium Notes",
+                "homepage": "https://mm21.github.io/trilium-alchemy/",
                 "id": 675229411,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-31T06:10:25Z",
+                "open_issues": 2,
                 "owner": "mm21",
                 "repo": "trilium-alchemy",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             },
@@ -1960,12 +3244,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An easy to use api for Trilium ETAPI.",
+                "homepage": "https://rauenzi.github.io/trilium-etapi/",
                 "id": 681986691,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-13T01:25:49Z",
+                "open_issues": 2,
                 "owner": "zerebos",
                 "repo": "trilium-etapi",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "trilium"
+                ]
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             },
@@ -1976,12 +3267,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Powershell module interfacing with the TriliumNext API",
+                "homepage": "https://ptmorris1.github.io/TriliumNext-Powershell-Module/",
                 "id": 897894729,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-05-17T15:08:28Z",
+                "open_issues": 0,
                 "owner": "ptmorris1",
                 "repo": "TriliumNext-Powershell-Module",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             }
@@ -1999,12 +3295,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Feature-rich Python client for interacting with the API and ETAPI of Trilium Notes. 用于与Trilium Notes的API和ETAPI交互的Python多功能客户端",
+                "homepage": null,
                 "id": 457650117,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-05-26T10:21:30Z",
+                "open_issues": 4,
                 "owner": "Nriver",
                 "repo": "trilium-py",
-                "stars": 230
+                "stars": 230,
+                "topics": [
+                  "etapi",
+                  "markdown",
+                  "migration-tool",
+                  "note-taking",
+                  "python",
+                  "python3",
+                  "trilium-notes"
+                ]
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             },
@@ -2015,12 +3324,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Zotero plugin to export notes to Trillium notes",
+                "homepage": null,
                 "id": 590184088,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-04-16T06:35:13Z",
+                "open_issues": 0,
                 "owner": "paulusm",
                 "repo": "zotero-trilium",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             },
@@ -2031,12 +3345,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Telegram bot for Trilium Notes",
+                "homepage": null,
                 "id": 462116659,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-03-15T01:25:59Z",
+                "open_issues": 0,
                 "owner": "Nriver",
                 "repo": "trilium-bot",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "automation",
+                  "bot",
+                  "python",
+                  "telegram",
+                  "telegram-bot",
+                  "telegram-bot-api"
+                ]
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             },
@@ -2047,12 +3373,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "将 Trilium Notes 发布为现代博客，支持 AI 摘要、精选文章、搜索与沉浸式阅读体验。",
+                "homepage": "https://blog.虎笺.com",
                 "id": 877387887,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-04T08:03:31Z",
+                "open_issues": 3,
                 "owner": "harveyTon",
                 "repo": "trilium-blog",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "ai-summary",
+                  "blog",
+                  "self-hosted",
+                  "trilium",
+                  "trilium-blog",
+                  "trilium-notes"
+                ]
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             },
@@ -2063,12 +3401,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Export highlights from Omnivore directly into Trilium Notes",
+                "homepage": null,
                 "id": 759387010,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-05-13T12:14:27Z",
+                "open_issues": 0,
                 "owner": "0xbismarck",
                 "repo": "omnivore2trilium",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "etapi",
+                  "highlighting",
+                  "note-taking",
+                  "notes",
+                  "omnivore",
+                  "personal-knowledge-management",
+                  "pkm",
+                  "trilium"
+                ]
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             },
@@ -2079,12 +3431,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Thunderbird extension to send e-mails into Trilium Next.",
+                "homepage": null,
                 "id": 913532656,
                 "language": "JavaScript",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-26T01:12:58Z",
+                "open_issues": 3,
                 "owner": "0xbismarck",
                 "repo": "ThunderbirdTriliumClipper",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "addon",
+                  "email",
+                  "personal-knowledge-management",
+                  "pkm",
+                  "thunderbird",
+                  "thunderbird-addon",
+                  "thunderbird-extension",
+                  "trilium",
+                  "trilium-notes"
+                ]
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             },
@@ -2095,12 +3462,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Send notes from Telegram straight into Trilium",
+                "homepage": null,
                 "id": 1117110814,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-16T17:48:43Z",
+                "open_issues": 0,
                 "owner": "rainrisa",
                 "repo": "trilium-sender-bot",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "telegrambot",
+                  "trilium",
+                  "trilium-notes"
+                ]
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             },
@@ -2111,12 +3487,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Telegram bot for Trilium notes",
+                "homepage": null,
                 "id": 946882040,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-01-04T21:22:16Z",
+                "open_issues": 0,
                 "owner": "ktibr0",
                 "repo": "Trilium_telegram_bot",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "etapi",
+                  "telegrambot",
+                  "trilium",
+                  "trilium-notes"
+                ]
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             },
@@ -2127,12 +3513,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Import your reading notes from Libby into TriliumNext",
+                "homepage": null,
                 "id": 937883550,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-06-25T00:32:52Z",
+                "open_issues": 1,
                 "owner": "0xbismarck",
                 "repo": "libby2trilium",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:07.213Z"
             }
@@ -2154,12 +3545,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Save web clippings to Trilium Notes.",
+            "homepage": null,
             "id": 197824737,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-05-18T04:12:10Z",
+            "open_issues": 31,
             "owner": "zadam",
             "repo": "trilium-web-clipper",
-            "stars": 305
+            "stars": 305,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -2170,12 +3566,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Save web clippings to Trilium Notes. Adapted to Chrome Manifest V3. Trilium 网页剪藏器 Plus, 适配新版谷歌浏览器.",
+            "homepage": null,
             "id": 999916467,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-03-04T07:10:04Z",
+            "open_issues": 4,
             "owner": "Nriver",
             "repo": "trilium-web-clipper-plus",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "chrome-extension",
+              "manifest-v3",
+              "trilium",
+              "trilium-notes"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         }
@@ -2192,12 +3598,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A @types package for Trilium Notes!",
+            "homepage": null,
             "id": 681019360,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-06-12T22:48:57Z",
+            "open_issues": 2,
             "owner": "zerebos",
             "repo": "trilium-types",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -2208,12 +3619,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple way to pack addons as zip files for Trilium Notes.",
+            "homepage": null,
             "id": 686873934,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-09-19T05:09:40Z",
+            "open_issues": 0,
             "owner": "zerebos",
             "repo": "trilium-pack",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         }
@@ -2230,12 +3646,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your personal knowledge base with Trilium Notes",
+            "homepage": "https://triliumnotes.org",
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:40:29Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:36:17Z",
+            "open_issues": 709,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37625
+            "stars": 37626,
+            "topics": [
+              "electron",
+              "electron-app",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-management-graph",
+              "local-first",
+              "note-managment",
+              "note-taker",
+              "note-taking",
+              "notebook",
+              "notes",
+              "notes-app",
+              "personal-knowledge-base",
+              "personal-wiki",
+              "scriptable",
+              "self-hosted",
+              "self-hosting",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         },
@@ -2246,12 +3687,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trilium中文Wiki.  https://trilium.smj.im",
+            "homepage": "https://trilium.smj.im",
             "id": 521122301,
             "language": "CSS",
+            "license": null,
             "last_commit": "2026-05-31T13:56:01Z",
+            "open_issues": 0,
             "owner": "baddate",
             "repo": "trilium-wiki",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "trilium",
+              "trilium-wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:02:07.213Z"
         }
@@ -2260,15 +3709,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:02:07.213Z",
+    "last_updated": "2026-08-29T04:34:33.693Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of interesting Trilium Notes extensions. Including themes, widgets, scripts, API extensions, etc. Trilium插件合集",
+      "homepage": null,
       "id": 605950323,
       "language": null,
+      "license": "GPL-3.0",
       "last_commit": "2026-08-11T14:13:04Z",
+      "open_issues": 4,
       "owner": "Nriver",
       "repo": "awesome-trilium",
-      "stars": 931
+      "stars": 931,
+      "topics": [
+        "api",
+        "awesome",
+        "awesome-list",
+        "etapi",
+        "extension",
+        "note-taking",
+        "plugin",
+        "scripts",
+        "theme",
+        "trilium-notes",
+        "widget"
+      ]
     },
     "original_repository_sha": "2004e4acd26e193729a818d7a46c77f85e57ae7c",
     "enhanced_repository": "enhansome/enhansome-trilium",
