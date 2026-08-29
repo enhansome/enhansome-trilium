@@ -12,11 +12,12 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:22:43Z",
+            "last_commit": "2026-08-28T20:40:29Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37617
-          }
+            "stars": 37625
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:22:43Z",
+            "last_commit": "2026-08-28T20:40:29Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37617
-          }
+            "stars": 37625
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:22:43Z",
+            "last_commit": "2026-08-28T20:40:29Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37617
-          }
+            "stars": 37625
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:22:43Z",
+            "last_commit": "2026-08-28T20:40:29Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37617
-          }
+            "stars": 37625
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:22:43Z",
+            "last_commit": "2026-08-28T20:40:29Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37617
-          }
+            "stars": 37625
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "Nriver",
             "repo": "trilium-py",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "Nriver",
             "repo": "trilium-py",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "Nriver",
             "repo": "trilium-py",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "Nriver",
             "repo": "trilium-py",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "Nriver",
             "repo": "trilium-py",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "Nriver",
             "repo": "trilium-py",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "paulusm",
             "repo": "zotero-trilium",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "ShellUnease",
             "repo": "cherrytree2trilium",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         }
       ],
       "title": "📥 Migrating to Trilium"
@@ -217,7 +230,8 @@
             "owner": "SiriusXT",
             "repo": "trilium-theme-blue",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "JadeVane",
             "repo": "Allure",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "raphwriter",
             "repo": "trilium-theme-melon",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "catppuccin",
             "repo": "trilium-notes",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "ohmstance",
             "repo": "trilium-lightpad-theme",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "mondayrobot",
             "repo": "trilium-linen-theme",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "eliandoran",
             "repo": "breeze-trilium",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -321,8 +341,9 @@
             "last_commit": "2023-03-14T05:13:46Z",
             "owner": "greengeek",
             "repo": "trilium-obsidian-theme",
-            "stars": 30
-          }
+            "stars": 31
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "greengeek",
             "repo": "trilium-vscode-dark-theme",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "Lolabird",
             "repo": "stellar-dark-theme-trilium",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "DavidFuchs",
             "repo": "trilium-chameleon-theme",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "Nriver",
             "repo": "bing-daily-theme",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "Nriver",
             "repo": "NieR-Automata-Trilium-Theme",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -416,8 +442,9 @@
                 "last_commit": "2026-08-12T06:23:47Z",
                 "owner": "calico-cat-3333",
                 "repo": "trilium-next-solarized-theme",
-                "stars": 1
-              }
+                "stars": 2
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             }
           ],
           "repo_info": {
@@ -428,7 +455,8 @@
             "owner": "WKSu",
             "repo": "trilium-solarized-theme",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -443,7 +471,8 @@
             "owner": "Lolabird",
             "repo": "everforest-ant-dark-trilium-theme",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -458,7 +487,8 @@
             "owner": "Ivy-End",
             "repo": "Mist-Moon",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -473,7 +503,8 @@
             "owner": "perfectra1n",
             "repo": "custom-trilium-themes",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -488,7 +519,8 @@
             "owner": "cocolight",
             "repo": "trilium-theme-eva",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -503,7 +535,8 @@
             "owner": "yu-jingrui",
             "repo": "trilium-theme-lemon-tree",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -518,7 +551,8 @@
             "owner": "DikshantJangra",
             "repo": "void-trilium-theme",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -529,11 +563,12 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:22:43Z",
+            "last_commit": "2026-08-28T20:40:29Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37617
-          }
+            "stars": 37625
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -548,7 +583,8 @@
             "owner": "dvai",
             "repo": "Ankia-Theme",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -563,7 +599,8 @@
             "owner": "FrostMiKu",
             "repo": "Share.CSS",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -578,7 +615,8 @@
             "owner": "Shmaur",
             "repo": "WhiteMinimalist-Theme",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -593,7 +631,8 @@
             "owner": "march-7th-mini",
             "repo": "Trilium-X-Akari",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -604,11 +643,12 @@
             "archived": false,
             "id": 1238259200,
             "language": "EJS",
-            "last_commit": "2026-08-27T20:05:18Z",
+            "last_commit": "2026-08-28T13:23:23Z",
             "owner": "brucevon",
             "repo": "zfy",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -623,7 +663,8 @@
             "owner": "perfectra1n",
             "repo": "trilium.rocks",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -638,7 +679,8 @@
             "owner": "uweizh",
             "repo": "trilium-sharecss",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -653,7 +695,8 @@
             "owner": "doonly1",
             "repo": "Wenxin-theme",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         }
       ],
       "title": "🏡 Themes"
@@ -670,11 +713,12 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:22:43Z",
+            "last_commit": "2026-08-28T20:40:29Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37617
-          }
+            "stars": 37625
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -685,11 +729,12 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:22:43Z",
+            "last_commit": "2026-08-28T20:40:29Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37617
-          }
+            "stars": 37625
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -700,11 +745,12 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:22:43Z",
+            "last_commit": "2026-08-28T20:40:29Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37617
-          }
+            "stars": 37625
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -715,11 +761,12 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:22:43Z",
+            "last_commit": "2026-08-28T20:40:29Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37617
-          }
+            "stars": 37625
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -734,7 +781,8 @@
             "owner": "TriliumNext",
             "repo": "Notes",
             "stars": 2927
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -749,7 +797,8 @@
             "owner": "Nriver",
             "repo": "awesome-trilium",
             "stars": 931
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -764,7 +813,8 @@
             "owner": "Nriver",
             "repo": "awesome-trilium",
             "stars": 931
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -779,7 +829,8 @@
             "owner": "Nriver",
             "repo": "trilium-enhancement",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -794,7 +845,8 @@
             "owner": "SiriusXT",
             "repo": "Trilium-TextNoteEnhancement",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -809,7 +861,8 @@
             "owner": "march-7th-mini",
             "repo": "trilium-enhancement-Lazy-Pack",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         }
       ],
       "title": "✂️ CSS Snippets"
@@ -826,11 +879,12 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:22:43Z",
+            "last_commit": "2026-08-28T20:40:29Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37617
-          }
+            "stars": 37625
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -841,11 +895,12 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:22:43Z",
+            "last_commit": "2026-08-28T20:40:29Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37617
-          }
+            "stars": 37625
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -860,7 +915,8 @@
             "owner": "antoniotejada",
             "repo": "Trilium-SyntaxHighlightWidget",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -875,7 +931,8 @@
             "owner": "zerebos",
             "repo": "Trilium-Breadcrumbs",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -890,7 +947,8 @@
             "owner": "waterovo",
             "repo": "trilium-simple-mind-map",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -910,7 +968,8 @@
                 "owner": "Userwei0418",
                 "repo": "trilium-MusicPlayer",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             }
           ],
           "repo_info": {
@@ -921,7 +980,8 @@
             "owner": "Nriver",
             "repo": "image-zoom-widget",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -936,7 +996,8 @@
             "owner": "Nriver",
             "repo": "copy-code-block-widget",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -951,7 +1012,8 @@
             "owner": "Userwei0418",
             "repo": "trilium-Magic-Toolbox",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -966,7 +1028,8 @@
             "owner": "SiriusXT",
             "repo": "trilium-show-position-in-toc",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -986,7 +1049,8 @@
                 "owner": "Userwei0418",
                 "repo": "tomato-timer-widget",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             }
           ],
           "repo_info": {
@@ -997,7 +1061,8 @@
             "owner": "Nriver",
             "repo": "tomato-timer-widget",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1012,7 +1077,8 @@
             "owner": "SiriusXT",
             "repo": "trilium-back-to-history",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1027,7 +1093,8 @@
             "owner": "SiriusXT",
             "repo": "trilium-left-panel-auto-zoom",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1042,7 +1109,8 @@
             "owner": "madodig",
             "repo": "trilium-widget-theme-switch",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1057,7 +1125,8 @@
             "owner": "justyns",
             "repo": "trilium-scripts",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1072,7 +1141,8 @@
             "owner": "SiriusXT",
             "repo": "trilium-auto-hide-info-bar",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1087,7 +1157,8 @@
             "owner": "waterovo",
             "repo": "trilium-jsmind",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1102,7 +1173,8 @@
             "owner": "Userwei0418",
             "repo": "trilium_Knowledge-Gallery-Viewer",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1117,7 +1189,8 @@
             "owner": "Nriver",
             "repo": "swap-enter-widget",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1132,7 +1205,8 @@
             "owner": "SiriusXT",
             "repo": "trilium-remember-right-pane",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1147,7 +1221,8 @@
             "owner": "Userwei0418",
             "repo": "trilium_AI_Voice_Note-",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1162,7 +1237,8 @@
             "owner": "Nriver",
             "repo": "countdown-days-widget",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1177,7 +1253,8 @@
             "owner": "Lolabird",
             "repo": "Trilium-TocWidget",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1192,7 +1269,8 @@
             "owner": "Userwei0418",
             "repo": "trilium-fast-player",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1207,7 +1285,8 @@
             "owner": "Stefan-Schmidbauer",
             "repo": "trilium-presenter-plugin",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1222,7 +1301,8 @@
             "owner": "Nriver",
             "repo": "title-color-picker",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1237,7 +1317,8 @@
             "owner": "AzzyB",
             "repo": "trilium-dnd-dice",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1252,7 +1333,8 @@
             "owner": "yiranlus",
             "repo": "trilium-antidote",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         }
       ],
       "title": "⚙️ Widgets"
@@ -1269,11 +1351,12 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:22:43Z",
+            "last_commit": "2026-08-28T20:40:29Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37617
-          }
+            "stars": 37625
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1284,11 +1367,12 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:22:43Z",
+            "last_commit": "2026-08-28T20:40:29Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37617
-          }
+            "stars": 37625
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1299,11 +1383,12 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:22:43Z",
+            "last_commit": "2026-08-28T20:40:29Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37617
-          }
+            "stars": 37625
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1314,11 +1399,12 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:22:43Z",
+            "last_commit": "2026-08-28T20:40:29Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37617
-          }
+            "stars": 37625
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1332,8 +1418,9 @@
             "last_commit": "2026-07-08T03:29:58Z",
             "owner": "Nriver",
             "repo": "trilium-translation",
-            "stars": 2861
-          }
+            "stars": 2862
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1348,7 +1435,8 @@
             "owner": "soulsands",
             "repo": "trilium-chat",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1359,11 +1447,12 @@
             "archived": false,
             "id": 634356415,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T16:13:49Z",
+            "last_commit": "2026-08-28T16:07:21Z",
             "owner": "BeatLink",
             "repo": "trilium-scripts",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1382,19 +1471,21 @@
                 "last_commit": "2026-07-08T03:29:58Z",
                 "owner": "Nriver",
                 "repo": "trilium-translation",
-                "stars": 2861
-              }
+                "stars": 2862
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             }
           ],
           "repo_info": {
             "archived": false,
             "id": 634356415,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T16:13:49Z",
+            "last_commit": "2026-08-28T16:07:21Z",
             "owner": "BeatLink",
             "repo": "trilium-scripts",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1405,11 +1496,12 @@
             "archived": false,
             "id": 634356415,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T16:13:49Z",
+            "last_commit": "2026-08-28T16:07:21Z",
             "owner": "BeatLink",
             "repo": "trilium-scripts",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1424,7 +1516,8 @@
             "owner": "salmund",
             "repo": "trilium_better_include",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1439,7 +1532,8 @@
             "owner": "dvai",
             "repo": "Trilium-DailyMood",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1454,7 +1548,8 @@
             "owner": "ecodiv",
             "repo": "Trilium_scripts",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1469,7 +1564,8 @@
             "owner": "mrbeandev",
             "repo": "trilium-ai-agent",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1484,7 +1580,8 @@
             "owner": "npgwgmggta",
             "repo": "trilium-next-image-lightbox",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1499,7 +1596,8 @@
             "owner": "jwhonce",
             "repo": "trilium-addons",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         }
       ],
       "title": "🪄 Scripts"
@@ -1520,7 +1618,8 @@
             "owner": "SiriusXT",
             "repo": "trilium-drawio",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1535,7 +1634,8 @@
             "owner": "mabeyj",
             "repo": "trilium-collection-views",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1550,7 +1650,8 @@
             "owner": "CyrilLeblanc",
             "repo": "trilium-kanban",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1565,7 +1666,8 @@
             "owner": "zerebos",
             "repo": "Trilium-SingleFile",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1580,7 +1682,8 @@
             "owner": "zerebos",
             "repo": "Trilium-MarkdownPreview",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1595,7 +1698,8 @@
             "owner": "dvai",
             "repo": "Trilium-Heatmap",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1610,7 +1714,8 @@
             "owner": "zerebos",
             "repo": "Trilium-LaTeXPreview",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1625,7 +1730,8 @@
             "owner": "sottey",
             "repo": "tje",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1640,7 +1746,8 @@
             "owner": "youli42",
             "repo": "Trilium-TodoList",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1655,7 +1762,8 @@
             "owner": "youli42",
             "repo": "Trilium-TagSearch",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -1670,7 +1778,8 @@
             "owner": "youli42",
             "repo": "Trilium-Favourite",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         }
       ],
       "title": "💥 Extension HTML Note"
@@ -1689,11 +1798,12 @@
                 "archived": false,
                 "id": 92111509,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T00:22:43Z",
+                "last_commit": "2026-08-28T20:40:29Z",
                 "owner": "TriliumNext",
                 "repo": "Trilium",
-                "stars": 37617
-              }
+                "stars": 37625
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             },
             {
               "node_type": "item",
@@ -1707,8 +1817,9 @@
                 "last_commit": "2026-08-27T17:33:57Z",
                 "owner": "FliegendeWurst",
                 "repo": "TriliumDroid",
-                "stars": 385
-              }
+                "stars": 387
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             },
             {
               "node_type": "item",
@@ -1719,11 +1830,12 @@
                 "archived": false,
                 "id": 1130084983,
                 "language": "Dart",
-                "last_commit": "2026-08-26T01:57:43Z",
+                "last_commit": "2026-08-28T03:03:06Z",
                 "owner": "Nriver",
                 "repo": "pocket-trilium",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             },
             {
               "node_type": "item",
@@ -1738,7 +1850,8 @@
                 "owner": "zadam",
                 "repo": "trilium-sender",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             },
             {
               "node_type": "item",
@@ -1753,7 +1866,8 @@
                 "owner": "jasongwq",
                 "repo": "Trilium-termux",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             }
           ],
           "description": null,
@@ -1775,7 +1889,8 @@
                 "owner": "soulsands",
                 "repo": "trilium-ios-shortcut",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             }
           ],
           "description": null,
@@ -1803,7 +1918,8 @@
                 "owner": "Nriver",
                 "repo": "trilium-py",
                 "stars": 230
-              }
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             },
             {
               "node_type": "item",
@@ -1818,7 +1934,8 @@
                 "owner": "perfectra1n",
                 "repo": "pytrilium",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             },
             {
               "node_type": "item",
@@ -1833,7 +1950,8 @@
                 "owner": "mm21",
                 "repo": "trilium-alchemy",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             },
             {
               "node_type": "item",
@@ -1848,7 +1966,8 @@
                 "owner": "zerebos",
                 "repo": "trilium-etapi",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             },
             {
               "node_type": "item",
@@ -1863,7 +1982,8 @@
                 "owner": "ptmorris1",
                 "repo": "TriliumNext-Powershell-Module",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             }
           ],
           "description": "The client implementations for ETAPI.",
@@ -1885,7 +2005,8 @@
                 "owner": "Nriver",
                 "repo": "trilium-py",
                 "stars": 230
-              }
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             },
             {
               "node_type": "item",
@@ -1900,7 +2021,8 @@
                 "owner": "paulusm",
                 "repo": "zotero-trilium",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             },
             {
               "node_type": "item",
@@ -1915,7 +2037,8 @@
                 "owner": "Nriver",
                 "repo": "trilium-bot",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             },
             {
               "node_type": "item",
@@ -1930,7 +2053,8 @@
                 "owner": "harveyTon",
                 "repo": "trilium-blog",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             },
             {
               "node_type": "item",
@@ -1945,7 +2069,8 @@
                 "owner": "0xbismarck",
                 "repo": "omnivore2trilium",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             },
             {
               "node_type": "item",
@@ -1960,7 +2085,8 @@
                 "owner": "0xbismarck",
                 "repo": "ThunderbirdTriliumClipper",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             },
             {
               "node_type": "item",
@@ -1975,7 +2101,8 @@
                 "owner": "rainrisa",
                 "repo": "trilium-sender-bot",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             },
             {
               "node_type": "item",
@@ -1990,7 +2117,8 @@
                 "owner": "ktibr0",
                 "repo": "Trilium_telegram_bot",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             },
             {
               "node_type": "item",
@@ -2005,7 +2133,8 @@
                 "owner": "0xbismarck",
                 "repo": "libby2trilium",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:02:07.213Z"
             }
           ],
           "description": "Programs based on triliums ETAPI.",
@@ -2031,7 +2160,8 @@
             "owner": "zadam",
             "repo": "trilium-web-clipper",
             "stars": 305
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -2046,7 +2176,8 @@
             "owner": "Nriver",
             "repo": "trilium-web-clipper-plus",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         }
       ],
       "title": "🧩 Chrome Extensions"
@@ -2067,7 +2198,8 @@
             "owner": "zerebos",
             "repo": "trilium-types",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -2082,7 +2214,8 @@
             "owner": "zerebos",
             "repo": "trilium-pack",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         }
       ],
       "title": "👨‍💻 Development Tools"
@@ -2099,11 +2232,12 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:22:43Z",
+            "last_commit": "2026-08-28T20:40:29Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37617
-          }
+            "stars": 37625
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         },
         {
           "node_type": "item",
@@ -2118,14 +2252,15 @@
             "owner": "baddate",
             "repo": "trilium-wiki",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T00:02:07.213Z"
         }
       ],
       "title": "📚 Wikis & documents"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:27:15.207Z",
+    "last_updated": "2026-08-29T00:02:07.213Z",
     "original_repository_info": {
       "archived": false,
       "id": 605950323,
