@@ -4,7 +4,7 @@
 English | <a href="README_CN.md">简体中文</a>
 </p>
 
-A curated list of awesome [Trilium Notes](https://github.com/zadam/trilium) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10 extensions. Including themes, widgets,
+A curated list of awesome [Trilium Notes](https://github.com/zadam/trilium) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11 extensions. Including themes, widgets,
 scripts, API extensions, ETAPI, etc.
 
 You are welcome to add cool stuff about Trilium Notes here.
@@ -46,14 +46,14 @@ You are welcome to add cool stuff about Trilium Notes here.
 
 These scripts and tips can be used to migrate to Trilium from other note taking applications:
 
-* [Evernote](https://github.com/zadam/trilium/wiki/Evernote-import) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10 (Trilium Wiki Guide) The most recent version of the
+* [Evernote](https://github.com/zadam/trilium/wiki/Evernote-import) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11 (Trilium Wiki Guide) The most recent version of the
   Evernote application no longer includes the option to export files as an enex file. Instead, it now offers a different
   encrypted dump file format, which no one else can read. If you want to obtain an enex file, you might need to utilize
   the following tool: <https://github.com/vzhd1701/evernote-backup> ⭐ 1,759 | 🐛 4 | 🌐 Python | 📅 2026-09-23.
-* [HTML](https://github.com/zadam/trilium/wiki/Markdown) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10 Supported Natively
-* [Markdown](https://github.com/zadam/trilium/wiki/Markdown) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10 Supported Natively
-* [OneNote](https://github.com/zadam/trilium/wiki/Onenote) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10 (Trilium Wiki Guide)
-* [Text](https://github.com/zadam/trilium/wiki/Markdown) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10 Supported Natively
+* [HTML](https://github.com/zadam/trilium/wiki/Markdown) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11 Supported Natively
+* [Markdown](https://github.com/zadam/trilium/wiki/Markdown) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11 Supported Natively
+* [OneNote](https://github.com/zadam/trilium/wiki/Onenote) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11 (Trilium Wiki Guide)
+* [Text](https://github.com/zadam/trilium/wiki/Markdown) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11 Supported Natively
 * [Joplin](https://github.com/Nriver/trilium-py#import-from-joplin) ⭐ 231 | 🐛 5 | 🌐 Python | 📅 2026-10-09 Can be imported with trilium-py.
 * [Logseq](https://github.com/Nriver/trilium-py#import-from-logseq) ⭐ 231 | 🐛 5 | 🌐 Python | 📅 2026-10-09 Can be imported with trilium-py.
 * [Obsidian](https://github.com/Nriver/trilium-py#import-from-obsidian) ⭐ 231 | 🐛 5 | 🌐 Python | 📅 2026-10-09 Need to convert a Obsidian vault to regular
@@ -128,10 +128,10 @@ which indicates the name of the theme displayed in Trilium's options panel.
 **Sharing Themes**
 
 Sharing themes provide theming to shared notes! A sharing note can use custom theme by using `~shareCss` relation to a
-css note. See [Styling the shared notes](https://github.com/zadam/trilium/wiki/Sharing#styling-the-shared-notes) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10 for
+css note. See [Styling the shared notes](https://github.com/zadam/trilium/wiki/Sharing#styling-the-shared-notes) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11 for
 more info.
 
-* [ysslang's theme](https://github.com/zadam/trilium/discussions/2681) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10 ![ysslang's theme](https://img.shields.io/github/gist/last-commit/46e2a57ca95ba9c7368cbd255d1ac769)
+* [ysslang's theme](https://github.com/zadam/trilium/discussions/2681) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11 ![ysslang's theme](https://img.shields.io/github/gist/last-commit/46e2a57ca95ba9c7368cbd255d1ac769)
   Paper with shadow effect, cool!
 * [Ankia-Theme](https://github.com/dvai/Ankia-Theme) ⭐ 178 | 🐛 14 | 🌐 EJS | 📅 2024-06-14 ![Ankia-Theme](https://img.shields.io/github/last-commit/dvai/Ankia-Theme)
   A card-style Trilium blog theme.
@@ -173,13 +173,13 @@ Check out the [official Trilium icon pack here](https://triliumnotes.org/resourc
 ## ✂️ CSS Snippets
 
 Custom CSS is used to alter the appearance of Trilium. These code snippets are typically labeled with `#appCss`.
-See ([Trilium Wiki](https://github.com/zadam/trilium/wiki/Themes#custom-css) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10
+See ([Trilium Wiki](https://github.com/zadam/trilium/wiki/Themes#custom-css) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11
 for instructions on how to enable custom CSS)
 
-* [display edited notes as list](https://github.com/zadam/trilium/discussions/2670#discussion-3884786) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10
-* [horizontal scrollbar](https://github.com/zadam/trilium/discussions/4706) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10 A css snippet to make the left panel and toc display a horizontal scrollbar.
-* [remove numbers from table of contents](https://github.com/zadam/trilium/discussions/3873#discussioncomment-5710601) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10
-* [vertical lines for tree](https://github.com/zadam/trilium/issues/3892#issuecomment-1530144842) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10
+* [display edited notes as list](https://github.com/zadam/trilium/discussions/2670#discussion-3884786) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11
+* [horizontal scrollbar](https://github.com/zadam/trilium/discussions/4706) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11 A css snippet to make the left panel and toc display a horizontal scrollbar.
+* [remove numbers from table of contents](https://github.com/zadam/trilium/discussions/3873#discussioncomment-5710601) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11
+* [vertical lines for tree](https://github.com/zadam/trilium/issues/3892#issuecomment-1530144842) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11
 * [images with transparent background](https://github.com/TriliumNext/Notes/issues/361) ⚠️ Archived Add transparent background for transparent images.
 * [trilium-enhancement](https://github.com/Nriver/trilium-enhancement) ⭐ 30 | 🐛 3 | 🌐 CSS | 📅 2024-11-08 ![trilium-enhancement](https://img.shields.io/github/last-commit/Nriver/trilium-enhancement) Experience Enhancement Kit for Trilium Notes.
 * [Trilium-TextNoteEnhancement](https://github.com/SiriusXT/Trilium-TextNoteEnhancement) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-22 ![Trilium-TextNoteEnhancement](https://img.shields.io/github/last-commit/SiriusXT/Trilium-TextNoteEnhancement)
@@ -198,16 +198,16 @@ Widgets can make big difference in the Trilium user experience!
 A widget typically alters Trilium's user interface and offers additional panel functionalities. The primary JavaScript
 file of a widget is usually labeled with `#widget`.
 
-* [Convert formulas in Note](https://github.com/zadam/trilium/discussions/4792) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10
+* [Convert formulas in Note](https://github.com/zadam/trilium/discussions/4792) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11
   Convert math formulas wrapped in single dollar signs `$` and double dollar signs `$$` into HTML format within Trilium Notes
-* [Scratchpad](https://github.com/zadam/trilium/discussions/1613#discussioncomment-638984) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10
+* [Scratchpad](https://github.com/zadam/trilium/discussions/1613#discussioncomment-638984) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11
   Add scratchpad widget to notes
 * [Syntax Highlight](https://github.com/antoniotejada/Trilium-SyntaxHighlightWidget) ⭐ 85 | 🐛 8 | 🌐 JavaScript | 📅 2022-09-11 ![Syntax Highlight](https://img.shields.io/github/last-commit/antoniotejada/Trilium-SyntaxHighlightWidget)
   The syntax highlight feature which you would like.
 * [Breadcrumbs](https://github.com/rauenzi/Trilium-Breadcrumbs) ⭐ 52 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-26 ![Breadcrumbs](https://img.shields.io/github/last-commit/rauenzi/Trilium-Breadcrumbs)
   Shows note breadcrumbs at the bottom of the page
 * [trilium-simple-mind-map](https://github.com/waterovo/trilium-simple-mind-map) ⭐ 36 | 🐛 7 | 🌐 JavaScript | 📅 2025-04-19 ![trilium-simple-mind-map](https://img.shields.io/github/last-commit/waterovo/trilium-simple-mind-map)
-  Create [simple-mind-map](https://github.com/wanglin2/mind-map) ⭐ 12,806 | 🐛 127 | 🌐 JavaScript | 📅 2026-08-02 mindmap in Trilium.
+  Create [simple-mind-map](https://github.com/wanglin2/mind-map) ⭐ 12,809 | 🐛 127 | 🌐 JavaScript | 📅 2026-08-02 mindmap in Trilium.
 * [Image zoom](https://github.com/Nriver/image-zoom-widget) ⭐ 27 | 🐛 0 | 🌐 JavaScript | 📅 2025-03-26 ![Image zoom](https://img.shields.io/github/last-commit/Nriver/image-zoom-widget)
   Zoom, drag, and preview images in Trilium
   * [MusicPlayer](https://github.com/Userwei0418/trilium-MusicPlayer) ⭐ 2 | 🐛 0 | 📅 2025-11-27 ![MusicPlayer](https://img.shields.io/gitlab/last-commit/Userwei0418/trilium-MusicPlayer)
@@ -260,14 +260,14 @@ file of a widget is usually labeled with `#widget`.
 * [trilium-dnd-dice](https://github.com/AzzyB/trilium-dnd-dice) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-28 ![trilium-dnd-dice](https://img.shields.io/github/last-commit/AzzyB/trilium-dnd-dice) D20 system/General Dice roller widget
 * [trilium-antidote](https://github.com/yiranlus/trilium-antidote) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-08 ![trilium-antidote](https://img.shields.io/github/last-commit/yiranlus/trilium-antidote)
   Antidote integration to correct text notes.
-* [trilium-livetennis](https://github.com/livetennisapi/trilium-livetennis) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-07 ![trilium-livetennis](https://img.shields.io/github/last-commit/livetennisapi/trilium-livetennis)
-  Shows tennis match snapshots from Live Tennis API in Trilium Notes. Uses a free account and caches requests for at least 15 minutes.
 * [hexmap](https://gitlab.com/QuentinLeCaignec/trilium-hexmap) ![hexmap](https://img.shields.io/gitlab/last-commit/QuentinLeCaignec/trilium-hexmap)
   Interactive hexmap (for TTRPGs)
 * [openfilepath](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) ![openfilepath](https://img.shields.io/github/gist/last-commit/de1f386fac9f9e797fd77022d63967c9)
   Opens italicised file path upon double click
 * [timeline](https://gitlab.com/QuentinLeCaignec/trilium-timeline) ![timeline](https://img.shields.io/gitlab/last-commit/QuentinLeCaignec/trilium-timeline)
   Interactive timeline
+* [trilium-livetennis](https://github.com/livetennisapi/trilium-livetennis) ![trilium-livetennis](https://img.shields.io/github/last-commit/livetennisapi/trilium-livetennis)
+  Shows tennis match snapshots from Live Tennis API in Trilium Notes. Uses a free account and caches requests for at least 15 minutes.
 
 ***
 
@@ -277,13 +277,13 @@ Magic! These code notes are typically tagged as JS frontend in Trilium.
 They're often marked with `#run=frontendStartup` for automatic execution when Trilium starts.
 Remember, scripts are executable codes. Handle with caution!
 
-* [Calendar Sunday First](https://github.com/zadam/trilium/discussions/4540) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10
+* [Calendar Sunday First](https://github.com/zadam/trilium/discussions/4540) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11
   Use Sunday as first weekday in calendar.
-* [Dark-mode-img-color-conversion](https://github.com/zadam/trilium/discussions/4209) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10
+* [Dark-mode-img-color-conversion](https://github.com/zadam/trilium/discussions/4209) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11
   Adjusting the images and background colors on the web page to suit a dark theme.
-* [Font formatting shortcuts](https://github.com/zadam/trilium/issues/2954#issuecomment-1672431589) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10
+* [Font formatting shortcuts](https://github.com/zadam/trilium/issues/2954#issuecomment-1672431589) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11
   Customizable shortcut keys for text formatting in CKEditor. Makes significant enhancement in editing efficiency.
-* [Open note in split view](https://github.com/zadam/trilium/discussions/3937) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10
+* [Open note in split view](https://github.com/zadam/trilium/discussions/3937) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11
   Shift+click to open a note in split view. Ctrl+shift+click for tree nodes.
 * [Startup message](https://github.com/Nriver/trilium-translation/blob/main/demo-cn/示例笔记%20-%20请不要删除/Trilium%20扩展/Trilium%20脚本%20script/startup%20启动项/startup%20message%20启动信息.js) ⭐ 2,861 | 🐛 4 | 🌐 HTML | 📅 2026-07-08
   ![Startup message](https://img.shields.io/github/last-commit/Nriver/trilium-translation)
@@ -291,13 +291,13 @@ Remember, scripts are executable codes. Handle with caution!
   a MOTD(Message of the day) message :)
 * [Trilium-chat](https://github.com/soulsands/trilium-chat) ⭐ 116 | 🐛 8 | 🌐 JavaScript | 📅 2024-08-30 ![Trilium-chat](https://img.shields.io/github/last-commit/soulsands/trilium-chat)
   Allows interaction with ChatGPT and Ollama conveniently right inside of Trilium.
-* [Beatlink's Trilium Scripts](https://github.com/BeatLink/trilium-scripts) ⭐ 62 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-01 A collection of scripts and widgets to do everything from allowing you to set priority colors on Notes, to scripting recurring To-dos.
-* [Mobile View](https://github.com/BeatLink/trilium-scripts/tree/main/Mobile%20View) ⭐ 62 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-01 ![Mobile View](https://img.shields.io/github/last-commit/BeatLink/trilium-scripts)
+* [Beatlink's Trilium Scripts](https://github.com/BeatLink/trilium-scripts) ⭐ 62 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-10 A collection of scripts and widgets to do everything from allowing you to set priority colors on Notes, to scripting recurring To-dos.
+* [Mobile View](https://github.com/BeatLink/trilium-scripts/tree/main/Mobile%20View) ⭐ 62 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-10 ![Mobile View](https://img.shields.io/github/last-commit/BeatLink/trilium-scripts)
   These set of scripts allow you to use the full capabilities of the Trilium server user interface while on a mobile
   device.
   * [always desktop mode](https://github.com/Nriver/trilium-translation/issues/90) ⭐ 2,861 | 🐛 4 | 🌐 HTML | 📅 2026-07-08
     Always use desktop UI on mobile device.
-* [Trillium Agenda](https://github.com/BeatLink/trilium-agenda) ⭐ 62 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-01 ![Trillium Agenda](https://img.shields.io/github/last-commit/BeatLink/trilium-agenda)
+* [Trillium Agenda](https://github.com/BeatLink/trilium-agenda) ⭐ 62 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-10 ![Trillium Agenda](https://img.shields.io/github/last-commit/BeatLink/trilium-agenda)
   Sorts todos into 6 categories: Overdue, Today, This Week, This Month, This Year, Future
 * [Better Include](https://github.com/salmund/trilium_better_include) ⭐ 15 | 🐛 1 | 🌐 JavaScript | 📅 2023-04-04 ![Better Include](https://img.shields.io/github/last-commit/salmund/trilium_better_include)
   Make subnotes and include them faster
@@ -329,7 +329,7 @@ present intricate standalone HTML pages, surpassing the capabilities of small pa
   A great extension for displaying notes in a different way.
 * [Kanban View](https://github.com/CyrilLeblanc/trilium-kanban) ⭐ 70 | 🐛 9 | 🌐 JavaScript | 📅 2024-08-18 ![Kanban View](https://img.shields.io/github/last-commit/CyrilLeblanc/trilium-kanban)
   A Kanban integration for Trilium Notes
-* [Trilium-SingleFile](https://github.com/rauenzi/Trilium-SingleFile) ⭐ 61 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-07 ![Trilium-SingleFile](https://img.shields.io/github/last-commit/rauenzi/Trilium-SingleFile)
+* [Trilium-SingleFile](https://github.com/rauenzi/Trilium-SingleFile) ⭐ 62 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-07 ![Trilium-SingleFile](https://img.shields.io/github/last-commit/rauenzi/Trilium-SingleFile)
   An addon for Trilium to easily import SingleFile archives.
 * [MarkdownPreview](https://github.com/rauenzi/Trilium-MarkdownPreview) ⭐ 55 | 🐛 4 | 🌐 JavaScript | 📅 2023-09-04 ![MarkdownPreview](https://img.shields.io/github/last-commit/rauenzi/Trilium-MarkdownPreview)
   Live preview markdown files with support for anchors, images, and sync scroll
@@ -354,11 +354,11 @@ Mobile phone related cool stuff.
 
 ### 🤖 Android
 
-* [Run Trilium Server in Termux on Android](https://github.com/zadam/trilium/discussions/4542) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10 Your server in your hand.
+* [Run Trilium Server in Termux on Android](https://github.com/zadam/trilium/discussions/4542) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11 Your server in your hand.
   Have fun :)
 * [TriliumDroid](https://github.com/FliegendeWurst/TriliumDroid) ⭐ 407 | 🐛 49 | 🌐 Kotlin | 📅 2026-10-01 ![TriliumDroid](https://img.shields.io/github/last-commit/FliegendeWurst/TriliumDroid)
   Unofficial port of Trilium to Android, in beta
-* [Pocket Trilium](https://github.com/nriver/pocket-trilium) ⭐ 147 | 🐛 7 | 🌐 Dart | 📅 2026-10-10 ![pocket-trilium](https://img.shields.io/github/last-commit/nriver/pocket-trilium)
+* [Pocket Trilium](https://github.com/nriver/pocket-trilium) ⭐ 147 | 🐛 8 | 🌐 Dart | 📅 2026-10-10 ![pocket-trilium](https://img.shields.io/github/last-commit/nriver/pocket-trilium)
   Full-featured android app for Trilium. Works offline and can sync with Trilium server.
 * [trilium-sender](https://github.com/zadam/trilium-sender) ⭐ 97 | 🐛 16 | 🌐 Kotlin | 📅 2024-07-21 ![trilium-sender](https://img.shields.io/github/last-commit/zadam/trilium-sender)
   A simple write-only android application for sending images and notes to Trilium
@@ -382,15 +382,15 @@ More magic!
 
 Caution! The plugins in this category involves custom request handlers (user defined APIs). Use them with care!
 
-* [singlefile2trilium](https://github.com/nil0x42/singlefile2trilium) ⭐ 112 | 🐛 2 | 🌐 Python | 📅 2022-05-26 ![singlefile2trilium](https://img.shields.io/github/last-commit/nil0x42/singlefile2trilium)
-  With the power of [SingleFile](https://github.com/gildas-lormeau/SingleFile) ⭐ 22,572 | 🐛 103 | 🌐 JavaScript | 📅 2026-10-10 web extension, you can get a perfect copy
+* [singlefile2trilium](https://github.com/nil0x42/singlefile2trilium) ⭐ 113 | 🐛 2 | 🌐 Python | 📅 2022-05-26 ![singlefile2trilium](https://img.shields.io/github/last-commit/nil0x42/singlefile2trilium)
+  With the power of [SingleFile](https://github.com/gildas-lormeau/SingleFile) ⭐ 22,578 | 🐛 105 | 🌐 JavaScript | 📅 2026-10-11 web extension, you can get a perfect copy
   of the webpage in Trilium.
 
 ***
 
 ## 🖥️ ETAPI
 
-Trilium's external API (aka [ETAPI](https://github.com/zadam/trilium/wiki/ETAPI) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10) related stuff.
+Trilium's external API (aka [ETAPI](https://github.com/zadam/trilium/wiki/ETAPI) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11) related stuff.
 
 ### 🦾 ETAPI client
 
@@ -454,7 +454,7 @@ Development tools for developing Trilium and its plugins.
 
 ## 📚 Wikis & documents
 
-* [official wiki](https://github.com/zadam/trilium/wiki) ⭐ 38,269 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-10
+* [official wiki](https://github.com/zadam/trilium/wiki) ⭐ 38,280 | 🐛 632 | 🌐 TypeScript | 📅 2026-10-11
   The official wiki of trilium.
 * [Chinese wiki](https://github.com/baddate/trilium-wiki) ⭐ 15 | 🐛 0 | 🌐 CSS | 📅 2026-05-31
   A Chinese translation of the official wiki.
@@ -478,4 +478,4 @@ by `Ctrl + Alt + L` in PyCharm.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
